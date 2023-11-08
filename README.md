@@ -1,11 +1,14 @@
-### LLM_QE_TM
+# LLM_QE_TM
 LLM-based estimation of Topic Model quality
 
 Research Work ITMO'23
 
-#### Dataset
+## Dataset
 https://www.kaggle.com/datasets/marykh/marked-up-topic-quality
 
+## Citation
+
+```bibtex
 @INPROCEEDINGS{9953874,
   author={Khodorchenko, Maria and Butakov, Nikolay and Nasonov, Denis},
   booktitle={2022 32nd Conference of Open Innovations Association (FRUCT)}, 
@@ -15,4 +18,5 @@ https://www.kaggle.com/datasets/marykh/marked-up-topic-quality
   number={},
   pages={128-134},
   doi={10.23919/FRUCT56874.2022.9953874}}
+```
 
