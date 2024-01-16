@@ -4,6 +4,7 @@ import string
 import nltk
 from nltk.stem import WordNetLemmatizer
 from nltk.corpus import stopwords
+from nltk.corpus import wordnet
 import gensim
 from pymystem3 import Mystem
 
@@ -22,6 +23,9 @@ class TextPreprocessor:
             self.stop_words = stopwords.words("russian")
             self.lemmatizer = Mystem()
         else:
+            nltk.download('wordnet')
+            nltk.download('averaged_perceptron_tagger')
+            nltk.download('punkt')
             self.stop_words = gensim.parsing.preprocessing.STOPWORDS
             self.lemmatizer = WordNetLemmatizer()
     
@@ -59,8 +63,19 @@ class TextPreprocessor:
         except (AttributeError, TypeError):
             return topic
 
+    def get_wordnet_pos(word):
+        """Map POS tag to first character lemmatize() accepts"""
+        tag = nltk.pos_tag([word])[0][1][0].upper()
+        tag_dict = {"J": wordnet.ADJ,
+                    "N": wordnet.NOUN,
+                    "V": wordnet.VERB,
+                    "R": wordnet.ADV}
+        
+        return tag_dict.get(tag, wordnet.NOUN)
+
     def lemmatize(self, topic):
         try:
-            return " ".join([self.lemmatizer.lemmatize(w) for w in topic])
+            print("!")
+            return " ".join([self.lemmatizer.lemmatize(w, self.get_wordnet_pos(w)) for w in topic])
         except (AttributeError, TypeError):
             return topic   
