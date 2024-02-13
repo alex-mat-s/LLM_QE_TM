@@ -1,0 +1,933 @@
+,text,topic,true_topic,cos_sim,cos_sim_class
+1,dog treat training liver greenies ball pup dog's puppy owner beneful beagle bully reward lick,['training'],"['dog training', 'dog', 'pet']",0.6173341671625773,H
+2,morning breakfast light packet indiv mild convenient pour wrap easily stevia liqu way ual usually,['convenience'],['morning'],0.555207371711731,M
+3,snack chip healthy tasty family cheese they're apple potato alternative salty enjoy lunch satisfy crave,['snacking'],"['snack', 'snack']",0.9492418169975281,VH
+5,syrup sometimes artificial high sweetener chemical sweeten splenda stevia maple corn agave extract fructose diabetic,['sweetener'],"['sugar', 'syrup']",0.7813936471939087,H
+6,chip star potato corn reason yellow kettle vinegar blue rating addictive garden tortilla trap think,['addictive'],['chip'],0.5119485259056091,M
+9,tasty fiber satisfy lunch healthier crunch dip yum typical hungry late bill wholesome guilt disappear,['healthy'],['fiber'],0.5047988891601562,M
+13,cooky cookie mouth bite raspberry thin brownie fudge xylitol crumb oreo creme gooey pan soft,['dessert'],"['dessert', 'cooky', 'cooking', 'cookie']",0.7512040734291077,H
+14,cooky cookie raspberry thin agree brownie oreo fudge think gooey crumbly soft texture package enough,['dessert'],['cooking'],0.6308876872062683,H
+16,purchase happy ship impressed website chance wonder offer directly mother elsewhere enjoys promptly refund however,['purchase'],['online shopping'],0.5267005562782288,M
+17,vanilla keurig k-cups french light k-cup aroma medium chai matcha hint blend starbucks brewer creamer,['coffee'],['coffee'],1.0,VH
+19,enjoy right candy amount quick cold plain hint refresh warm sweetness beverage summer mango quantity,['summer'],['juice'],0.4336378276348114,M
+20,ingredient organic natural real corn syrup list label grain expensive pet artificial ginger feed wheat,['natural'],['food'],0.44305604696273804,M
+22,vanilla several deal brew smooth machine french house starbucks maker pot shop espresso sample drinker,['coffee'],['drink'],0.6800295114517212,H
+29,favorite oil ever popcorn spice pop season cooking olive salad cocoa chai top black garlic,[' flavor'],['recipe'],0.7169057130813599,H
+32,chicken meat vegetable purchasing hazelnut test filler we're ingredient steak vegetarian by-product grill duck gloria,['food'],"['kitchen', 'cooking', 'fokd']",0.6736955444018046,H
+33,morning breakfast indiv wrap convenient portion control ual afternoon ually deep enjoy lunch every worry,['healthy'],"['breakfast', 'food cycle']",0.3437720686197281,M
+34,sweet delicious bar milk cereal texture nut fruit definitely perfect yummy almond cinnamon fill oatmeal,['dessert'],"['food', 'sweet', 'milk bar', 'oatmeal']",0.6541398167610168,H
+35,year two size old last month every start week since baby several long ago three,['baby'],['time'],0.6934092044830322,H
+40,pet vet feed ingredient wellness corn chicken liver meat diet filler science kibble kitten fructose,['nutrition'],"['pet care', 'veterinary', 'pet']",0.5264532168706259,M
+42,stuff coconut cream ice tell cannot told pure wow everyday face bpa jelly pomegranate absolute,['natural'],['coconut'],0.5838305354118347,M
+44,by-product cat meat tassimo unit ingredient pad real poop friskies temperature harvest chicken keurig breeze,['convenience'],['food'],0.579959511756897,M
+46,oil ever popcorn spice jar pop season cooking olive salad cook top christmas sprinkle microwave,['cooking'],['cooking'],1.0000001192092896,VH
+47,feed change diet vet formula wellness crazy eats switch pet whatever kibble science kitten fed,['nutrition'],['diett'],0.699762761592865,H
+49,morning breakfast indiv convenient wrap portion control ual afternoon ually worry deep early since wake,['healthy'],['morning'],0.5920525789260864,M
+52,without help anyone super body oatmeal skin recently okay fall gas face pure mom daily,['healthy'],['facial and body product'],0.4285740256309509,M
+53,cheese bread bake follow homemade spread slice spoon toast direction fry sandwich usual mustard oven,['bread'],"['cooking', 'homemade bread']",0.7714022994041443,H
+54,cooky cookie mouth raspberry thin brownie fudge xylitol oreo creme package gooey pan think soft,['dessert'],['candy and cooky'],0.7359544038772583,H
+55,rice meal bowl ginger content picky label dinner contain sprinkle brown eater fairly cooked thai,['thai rice bowl'],"['food', 'rice']",0.5913694500923157,M
+57,cooky cookie mouth raspberry thin brownie fudge xylitol oreo creme gooey pan think package soft,['dessert'],['cookie'],0.7080201506614685,H
+59,bpa water g<br glutamate msg monosodium mio glutamic electrolyte coconut zico free hydrolyze essentia gatorade,['drink'],['manufacturing'],0.5837227702140808,M
+61,several deal smooth brew machine maker french pot shop sample espresso two drinker anymore every,['coffee'],"['café', 'smooth brew']",0.6434109210968018,H
+62,chip star potato salty corn veggie reason vinegar kettle rating think whole addictive garden still,['snack'],['chip'],0.5750962495803833,M
+63,natural list contains raw berry book usa herb gross site ingredient root report aloe question,['nature'],['list natural ingredient found in internet'],0.4418749213218689,M
+67,nice salt hard color cracker big smaller bite dish hit kind broken shape sea vinegar,['snack'],['salt'],0.5689416527748108,M
+70,kit g<br wine sat heart mg<br chip fat drinkable saturday sit total sodium joke call,['saturday'],['kit g'],0.3932231664657593,M
+71,calorie low fat protein fiber weight serve sodium gram high per carbs diet nutrition carb,['diet'],"['healthy snack', 'diet']",0.8230189681053162,VH
+72,sweet enjoy right candy amount quick cold refresh sweetness summer mango plain beverage ant way,['summer'],['refresh drink'],0.4955953359603882,M
+78,hair clear heard thick wash scent shampoo conditioner oily manufacturer shiny scalp head apply shower,['grooming'],['shampo'],0.616478443145752,H
+79,ingredient honey list label special contain contains prov raw test process splenda site china tree,['sweetener'],['honey'],0.7651271820068359,H
+80,company available care awesome search sent licorice send contact email since business call affordable amazon's,['amazon'],['online retailer'],0.626552164554596,H
+81,protein fat coconut fiber sodium gram carbs splenda calorie msg bpa ant grape antiox g<br,['nutrition'],"['nutrient', 'calorie', 'nutrition', 'nutrition fact']",0.8236870914697647,VH
+84,bought local grocery cost cheaper able buying carry deliver live run plant stop shelf trip,['shopping'],"['shopping', 'shopping']",0.9999997615814209,VH
+90,sauce cheese recipe bread spicy cook season cake salad egg bake chicken flour chili tomato,['recipe'],"['food', 'cooking', 'recipe', 'cooking']",0.8401482999324799,VH
+93,green sauce protein powder vitamin mixed soy shake contains fiber matcha form nutrition teaspoon prov,['healthy drink'],"['protein', 'health', 'nutrition']",0.6160286664962769,H
+94,free cooky butter peanut gluten cookie gum original sale melt vegan reasonable bake prime walmart,['bakery'],"['food', 'candy and food choice']",0.5969098806381226,M
+98,local grocery home half deliver ask realize shelf trip door brought picked across reorder shopping,['convenience'],"['local grocery delivery', 'home delivery']",0.33651673793792725,M
+99,sauce regular serve per save hot bit red spicy pepper ounce subscribe option heat chili,['spicy'],"['food', 'sauce']",0.5904213488101959,M
+101,popcorn baby jerky daughter son picky pill formula puppy training he's mom eater eats feed,['snacks'],['mom struggle'],0.18814045190811157,L
+104,bit extra cream three bold ice type second tiny remember two single people honestly require,['sweetness'],['ice'],0.4631706178188324,M
+105,dark full roast away rich flavorful extremely long double drinker steep magic drank half odd,['coffee'],['drink and food'],0.5431278944015503,M
+106,ingredient color corn allergy stevia puppy source research filler main pet human yellow meal allergic,['food'],['pet food'],0.7081573009490967,H
+110,bought local grocery buying cost cheaper able carry live deliver stop run plant supermarket shelf,['localism'],['grocery'],0.4571719765663147,M
+114,ingredient natural list special contains raw berry usa china book herb gross prov report twist,['nature'],['food'],0.5057110786437988,M
+115,feel health notice normal benefit lower person particular trouble heart gummy consume birthday crisp tasteless,['health'],['healthy diet'],0.6885166168212891,H
+118,sweet delicious bar milk cereal texture nut almond yummy cinnamon granola fill strawberry chewy caramel,['sweetness'],"['nutrition', 'food', 'food']",0.5197551747163137,M
+122,feed change diet crazy wellness formula eats kibble vet year whatever switch old science start,['transformation'],['diet'],0.4772747755050659,M
+126,different many others keurig k-cups name brewer creamy curry k-cup experiment paste extra folgers way,['variety'],['beverage'],0.6979672908782959,H
+129,year two size old every last month start since week several baby long three ago,['baby'],['year'],0.6583205461502075,H
+130,snack chip healthy tasty family they're cheese potato apple alternative salty lunch satisfy enjoy crave,['snack'],"['food', 'snack']",0.8973219096660614,VH
+132,milk n't start diet stomach soy substitute shake sensitive nasty upset dissolve usually zero allergic,['substitute'],['milk'],0.5437232255935669,M
+135,last gum long hope date online dec original past shipment expiration true plan anywhere could,['shipment'],['gum'],0.580237865447998,M
+144,free gluten balance salmon wet turkey diet kitten fussy since ocean limit natural important smelly,['nutrition'],"['food', 'diet', 'animal food', 'nutrition']",0.8044146597385406,VH
+152,flour egg grain large boy mill poor disease recipe celiac kibble allergy choke formula whole,['food'],"['bake or cook', 'food']",0.8407666683197021,VH
+153,chicken meat vegetable purchasing test hazelnut we're steak vegetarian real exception grill gloria rub plate,['food'],"['food', 'cooking']",0.8976049423217773,VH
+155,sauce rice meal cook noodle dish soy dinner cooked thick brown sprinkle restaurant cooking simple,['cuisine'],"['food', 'food preparation']",0.8340837359428406,VH
+156,bar cereal butter snack cooky peanut nut cracker almond oatmeal cookie granola fruit strawberry crunch,['snack'],"['breakfast', 'food', 'food item']",0.7371612787246704,H
+157,sauce serve per regular save hot red bit spicy pepper ounce subscribe heat option single,['spicy'],['condiment'],0.6377618312835693,H
+160,less calorie protein amount low fat fiber weight sodium gram substitute carbs lower lose diet,['diet'],"['healthy lifestyle', 'diet guide']",0.7147504985332489,H
+162,package fresh receive absolutely disappointed fast white super return customer service open terrible costco shipment,['disappointment'],"['store delivery', 'package']",0.4330722987651825,M
+163,bottle shipping excellent available plastic everyone offer pleased delivery glass lemon seller mint travel sample,['travel'],"['deliver', 'shopping', 'bottle', 'drink']",0.724176287651062,H
+165,keep need seem worth still hand container teeth clean around cheap result thing every basically,['hygiene'],['clean'],0.7362645268440247,H
+168,brew bitter bold starbucks decaf instant via weak strong drinker smooth mocha peppermint magic yet,['coffee'],"['hot drink', 'brew']",0.6610789597034454,H
+169,way drinking mild aftertaste espresso weird sip latte either oppose mellow appeal richer overprice wonderfully,['espresso'],"['drinking', 'drink']",0.59410759806633,M
+170,salt bean dish kitchen pork gourmet sea ground rind cooking amount jamaica grinder basic actually,['cuisine'],"['cooking', 'cooking']",0.8135979175567627,VH
+172,healthy tasty snack fiber healthier lunch satisfy dip alternative yum touch gram bill usual enjoy,['healthy'],"['health snack', 'healthy food', 'healthy']",0.8158111572265625,VH
+173,nice never hard kind please heard surprise overpower bring describe lighter present rock puff pa,['pleasant'],['noun'],0.48731380701065063,M
+176,review see another disappointed read value similar reviewer base call experience write reading comment negative,['disappointment'],"['write', 'review']",0.5709867775440216,M
+177,purchase happy ship offer website wonder impressed chance directly mother elsewhere enjoys promptly rip express,['shopping'],"['business', 'shipping', 'order']",0.655439019203186,H
+180,company available care awesome search sent licorice send contact email business affordable amazon's beyond coupon,['amazon'],['business'],0.38222044706344604,M
+181,oil popcorn spice pop olive christmas worst italian garlic regularly kernel microwave smoke sister cooking,['food'],['cooking'],0.7952097654342651,H
+182,every last long nothing week grow plant boy he's beautiful visit still two ran finally,['growth'],['last'],0.4451184570789337,M
+184,popcorn baby daughter formula pill he's training puppy pump gobble puff busy greenies kernel adult,['food'],['family'],0.5269685387611389,M
+186,cooky cookie raspberry thin agree brownie oreo fudge think gooey crumbly soft enough overprice ruin,['dessert'],['cooking'],0.6308876872062683,H
+189,anyone son super oatmeal body skin okay pure fall heard mom gas wash improve seriously,['healthy'],['oatmeal'],0.271083265542984,L
+190,worth packet waste follow splenda world horrible direction sweeter whenever accord town sucralose hardly compliment,['sweetener'],['packet'],0.5921688079833984,M
+191,cat pet wellness feed meat ingredient science vet kitty kibble filler kitten purina cat's by-product,['nutrition'],"['cat', 'pet', 'cat food']",0.35693810880184174,M
+194,market pasta difference stomach brown mean hold sour cook soda coat upset folk nicely finger,['digestion'],['market pasta'],0.5375100374221802,M
+201,oil salt chew energy gum bone hair body toy olive blue skin magnesium help night,['energy'],['energy bar'],0.7462272644042969,H
+202,purchase item happy company ship see bulk exactly sent condition offer website packed impressed state,['happiness'],"['delivery', 'purchase item', 'online purchase']",0.4400436083475749,M
+203,mix lot less problem pay leave place except kept convenience crystal waffle remove fancy scoop,['simplicity'],['problem'],0.4548807740211487,M
+210,bar almond granola nut oat cluster omega- chia yogurt clif flaxseed flax cereal shiitake mar,['healthy snacks'],"['fiber drink', 'snack']",0.596421629190445,M
+212,help chew keep hour honey energy bone minute toy skin need night work trip training,['assist'],['energy bodybuilder supplement'],0.4909924268722534,M
+216,sweet delicious bar milk cereal texture nut yummy almond fill cinnamon oatmeal definitely granola strawberry,['dessert'],"['breakfast', 'breakfast', 'sweet']",0.7091211477915446,H
+217,rice meal ginger content contain sprinkle dinner cooked thai snap they've fairly palm breast might,['thai rice meal'],['food'],0.5487712621688843,M
+218,away roast dark full rich flavorful pick rest extremely world double drinker magic consistently drank,[' intensity'],['drink'],0.6678827404975891,H
+219,two every item several brew deal smooth machine maker pot shop espresso sample french christmas,['coffee'],['coffee'],1.0,VH
+221,hazelnut gloria ingredient manufacturing facility jean's test vanilla ensure blackberry processing jean please harmful assure,['manufacturing'],['gloria'],0.6329599618911743,H
+228,fruit top plus nut fan cake mixed hit banana dessert microwave flavour etc car big,['dessert'],['dessert'],1.0000001192092896,VH
+236,enjoy right candy amount refresh summer quantity unique plain chunk ant outstanding think pineapple relatively,['summer'],['summer'],1.0000001192092896,VH
+237,smooth almond body blue magnesium diamond cause reminds bowel rda nutrient increase source blood peppermint,['health'],"['almond', 'nutrition']",0.6464884877204895,H
+238,notice life believe show completely face sleep supplement heart fix number common habit period doctor,['noticeable'],['health'],0.6837255954742432,H
+239,back wonderful new home change next amaze issue thank left lose difficult office fantastic anywhere,['transformation'],['move'],0.8060383200645447,VH
+242,open place container easily soft close hold melt together mess shape stuck somewhat excite cool,['container'],['shape metal'],0.709169864654541,H
+245,free gluten salmon balance wet turkey diet natural kitten ocean fussy since limit dry grain,['healthy diet'],['nutrition'],0.7033811807632446,H
+246,calorie serve low fat protein coconut diet juice per fiber weight sodium gram vitamin carbs,['healthy eating'],"['diet', 'diet']",0.6539942026138306,H
+249,quality chicken meat vegetable hazelnut purchasing tuna turkey hooked pricey steak thick we're grill base,['meat'],['food'],0.677240788936615,H
+250,free hard gluten value difficult packaging bulk search hair damage prime available shampoo conditioner scalp,['hair care'],"['skin', 'shampoo']",0.6278647780418396,H
+251,could cheese bake homemade fry spread slice spoon onion stand style paper cardboard effort oven,[' baking'],['cooking'],0.8271106481552124,VH
+252,company available awesome care sent search licorice email send affordable business since premium beyond back,['affordable'],['work'],0.4870426058769226,M
+254,cooky butter peanut cookie sale we've website newman's spread reasonable biscuit crumb walmart fudge allergic,['bakery'],['recipe'],0.7334803342819214,H
+258,morning light breakfast packet mild indiv pour usually convenient wrap easily liqu way stevia every,['convenience'],"['morning', 'breakfast food']",0.49283410608768463,M
+259,vanilla bean honey orange iced indiv caffeine lemon aroma refresh green stash sweeten stevia licorice,['flavor'],"['flavour', 'sweet', 'food']",0.7966308196385702,H
+260,might drinking aftertaste mild espresso beverage straight weird sound sip latte guest appeal however pleasant,['coffee'],"['coffee', 'coffee']",1.0,VH
+265,item deal glad shop anymore become donut disappoint supply costco sampler many kill retail consistent,['retail'],['shop'],0.8869442939758301,VH
+267,buying money cheaper compare bulk dont hate costco personally finger spend cent retail however range,['bulk buying'],['shopping'],0.6423974633216858,H
+268,say review think smell still bad open people i'll however maybe since know half reviewer,['review'],"['read people review', 'review']",0.7957929372787476,H
+270,fresh packaging honey cracker condition fit convenience lover mini graham incredible grind due stack cap,['snack'],['pack'],0.5183677673339844,M
+273,roast dark full bit away long rich half flavorful miss person noodle extremely lover ground,['richness'],['barbecue'],0.3106582760810852,M
+275,calorie low protein fat sodium gram serve carbs high diet carb weight nutrition per amount,['diet'],"['nutrition', 'diet']",0.9254242777824402,VH
+279,sell cereal chewy pancake hop truly unfortunately vendor surprised raisin gooey muffin bran grain dough,['food'],['breakfast'],0.6966049671173096,H
+281,work hour energy husband minute feel shot boost pizza effect actually ent caffeine crust sleep,['stimulation'],"['energy', 'work']",0.8234458267688751,VH
+282,package item receive rice fresh soup absolutely disappointed white fast anyone wrong noodle awesome return,['disappointment'],['food'],0.38866162300109863,M
+286,chip potato vinegar kettle corn garden addictive trap salt blue tortilla think lucky starch whole,['snacks'],"['food', 'tortilla', 'kentle']",0.6308595736821493,H
+292,bean vanilla honey green orange iced indiv caffeine lemon aroma refresh cold black stash sweeten,['coffee'],"['fruit', 'beverage']",0.5537585914134979,M
+298,calorie low fat protein weight sodium fiber high gram diet content carbs lose substitute carb,['diet'],"['nutrition', 'diet', 'diet']",0.9502828518549601,VH
+300,company available awesome sent licorice care email search affordable business since send premium back prompt,['affordable'],['business'],0.4417993426322937,M
+305,feel hour energy work shot pizza boost effect crust lack favor felt sleep need faster,['energize'],['to sleep'],0.2483687847852707,L
+306,bar cereal butter peanut nut almond granola yogurt oat raisin brownie quaker cashew flax walnut,['snacks'],"['snack', 'granola']",0.7901672422885895,H
+308,vanilla deal smooth brew several machine french maker shop sample espresso pot house drinker anymore,['coffee'],"['shopping brew drink', 'coffee', 'drink', 'coffee']",0.8393134474754333,VH
+311,bottle shipping plastic iced delivery glass lemon seller mint lime peach forward drinking count tip,['convenience'],"['soda', 'trade', 'partycruisedrinkingdrinks', 'juice']",0.5039147734642029,M
+315,cooky cookie raspberry mouth thin brownie fudge xylitol package oreo think gooey creme pan soft,['dessert'],"['cooky', 'snack', 'cookie']",0.7345729470252991,H
+318,bar cereal butter peanut nut almond cracker granola yogurt oat raisin brownie quaker cashew walnut,['snacks'],"['food', 'food', 'cooking']",0.7175474961598715,H
+321,chew pod pound toy bone caramel larger play pet two minute rawh puppy target german,['playtime'],['puppy'],0.41841909289360046,M
+324,quite expect bread wish recipe thing melt bake follow baking stir stuck kind homemade i'd,['baking'],['baking'],1.000000238418579,VH
+327,stuff coconut difference tell benefit told face everyday wow cannot health cappuccino munch improve notice,['healthy'],['health'],0.7051655054092407,H
+328,feed corn gluten pet vet ingredient wellness liver chicken animal meat filler science diet kibble,['nutrition'],"['veterinaty', 'animal food', 'pet food']",0.5720918675263723,M
+331,package item receive rice soup fresh disappointed white fast absolutely anyone wrong noodle awesome egg,['disappointment'],['food'],0.38866162300109863,M
+338,bottle delivery hazelnut cappuccino peach wine squeeze kit cost sparkle selection mio cola carbonate squirt,['beverages'],['cafe'],0.60544753074646,H
+339,roast cup bean keurig k-cups bold brew pod french k-cup starbucks machine espresso dark blend,['coffee'],"['cup', 'coffee', 'related to coffee']",0.8870240449905396,VH
+345,can't almond blue ounce wait cocoa magnesium beat diamond blood reminds cause nutrient alot rda,['healthy'],['cocoa magnesium'],0.41101720929145813,M
+346,snack chip healthy tasty family they're cheese potato apple alternative salty lunch enjoy satisfy crave,['snacking'],"['eat food', 'family fruit snack', 'family food craving']",0.7168993353843689,H
+349,sweet snack bar cooky cereal fruit butter peanut nut cookie cracker almond apple crunchy oatmeal,['snacks'],['food'],0.7841411828994751,H
+350,regular serve light red ounce single alone option alternative typically however enjoyable less popchips combine,['snacks'],['food and bevarage'],0.6998545527458191,H
+351,notice believe life show completely face supplement heart fix number common sleep habit doctor recent,['health'],['sleep'],0.38128477334976196,M
+356,favorite oil ever popcorn spice pop season cooking olive salad chai black top garlic sprinkle,['spice'],"['food', 'cooking']",0.5971592664718628,M
+357,bottle glass lemon delivery mint sale peach usually broken forward offer plastic half prov mio,['convenience'],['delivery'],0.5409570932388306,M
+359,something house least huge recently sale we've supermarket newman's reasonable higher charge walmart since limited,['discount'],['house for sale'],0.4410952627658844,M
+364,diet feed change pet vet switch wellness formula kibble eats crazy allergy science grain research,['nutrition'],['diet'],0.8508486747741699,VH
+370,magnesium diamond oil blue bowel rda body olive blood energy tolerance source nutrient allowance take,['healthy living'],"['magnesium', 'vitamin']",0.4203590303659439,M
+372,stuff coconut case health tell difference please benefit weight immediately lose realize process cause care,['healthy living'],['coconut'],0.46532851457595825,M
+373,top family nut plus extra apple cake mixed egg hit share raspberry mess banana travel,['fruitcake'],['food'],0.5348191857337952,M
+374,espresso cappuccino illy drink mate capsule http href com www issimo caffe roast dark cold,['coffee'],['coffee'],1.0,VH
+377,set stash packed grey earl tuna dent staple twinings sardine bigelow bergamot cola buyer schedule,['canned food'],['set'],0.36158132553100586,M
+378,brew bitter yet bold starbucks instant drinker ground weak brewing via grind mocha bitterness peppermint,['coffee'],"['bitterness', 'starbucks']",0.6357089728116989,H
+379,think cooky cookie raspberry thin brownie agree fudge oreo gooey crumbly shortbread ahoy ruin fig,['dessert'],['cookie'],0.7080201506614685,H
+384,notice believe life show completely face supplement heart fix number common sleep habit doctor leg,['health'],['healthy life style'],0.738004744052887,H
+388,bean indiv espresso ual dress fuel ually flower jet herbal illy wake lipton jasmine throat,['coffee'],['tea'],0.7776450514793396,H
+391,green vitamin mountain teaspoon form organic nutritional grass mineral hemp smoothy calcium spaghetti yeah stain,['healthy'],['nutritional'],0.6683666706085205,H
+395,organic natural real expensive syrup high artificial sweetener pleased flour wheat corn chemical leaf maple,['natural'],['food'],0.44305604696273804,M
+397,vanilla keurig k-cups french k-cup aroma light medium chai blend matcha hint starbucks creamer roast,['coffee'],"['keurig', 'coffee']",0.8181240558624268,VH
+399,bought local grocery cost able buying deliver cheaper plant live run carry shelf trip stop,['groceries'],"['grocery', 'shopping', 'shop']",0.7915782729784647,H
+401,almond body blue magnesium diamond blood reminds cause bowel rda nutrient approximately diarrhea source level,['nutrition'],"['nutrition', 'medecin']",0.7254280596971512,H
+405,regular serve per fan red spicy pepper single alternative option heat kick huge fry alone,['spicy'],['cook'],0.6182593703269958,H
+406,bottle excellent available everyone plastic delivery pleased glass lemon mint sample offer travel clear lime,['travel'],['drink'],0.7519237995147705,H
+409,bottle shipping plastic iced delivery glass lemon seller mint lime peach forward drinking count gallon,['bottled beverages'],"['bottle', 'lemonade']",0.6698915660381317,H
+412,wonderful next thank left salad customer service issue dress goodness back word post introduce spring,['spring'],['restaurant'],0.4038394093513489,M
+414,star fruit pretty juice gift orange mind soda instant five espresso substitute raspberry decent via,['fruit'],['sweet beverage'],0.6503179669380188,H
+415,green wonderful bean vanilla drinking black honey ice orange cold iced indiv aftertaste lemon caffeine,['iced coffee'],['juice'],0.4189610481262207,M
+417,put around top real popcorn place bowl close pop batch microwave liqu movie cool second,[' microwave'],['cinema'],0.551249623298645,M
+418,dry liver training freeze walk gravy cube due tub reward beg movie group she'll powdery,['healthy'],['cooking'],0.374116450548172,M
+421,chip blend roast com favorite www http href dark keurig k-cups brew bold rich pod,['coffee'],['chip blend'],0.6526730060577393,H
+429,size baby quickly daughter thanks work night start month since formula pump move old child,['growth'],['care'],0.5645647048950195,M
+438,feed change switch diet vet wellness crazy eats pet formula kibble year science puppy old,['nutrition'],"['diet', 'animal']",0.6586219668388367,H
+441,chip potato vinegar kettle corn garden addictive trap tortilla blue salt starch think lucky bbq,['snacks'],"['food', 'chip', 'cooking']",0.6372650067011515,H
+442,item deal shop anymore guy disappoint supply buck donut sampler go lavazza recieved settle cheapest,['disappointment'],['shop'],0.4624786674976349,M
+454,thing quite probably expect i'd n't rather certainly often stir enough either seem awful though,['disappointment'],['adverb'],0.523148775100708,M
+455,bar sweet crunchy yummy cinnamon granola yogurt crunch cereal raisin flake snack almond combination blueberry,['snack'],"['snack bar', 'food', 'sweet and sugar drink']",0.756029486656189,H
+456,strong prefer bold medium ginger cherry stronger orange kona chamomile wake slight cola intense bitterness,['spice'],['chamomile'],0.5624762773513794,M
+464,chew pod toy pound caramel bone larger play pet two minute rawh puppy target seem,['plaything'],['dog'],0.4472677707672119,M
+465,quality chicken meat ingredient vegetable purchasing salmon pricey hazelnut base turkey tuna filler steak actually,['protein'],"['food', 'cooking', 'meat', 'cooking grocery', 'cooking']",0.5321216583251953,M
+466,butter peanut apple orange jelly aware grape poor choke formula belly risk watch fact transition,['healthy eating'],"['fruit', 'cooking']",0.4834476709365845,M
+474,rice meal ginger content picky contain bowl label dinner sprinkle eater fairly cooked brown thai,['rice'],['food'],0.5859464406967163,M
+475,shipping exactly seller stash grey earl prime beat dent charge beautiful pomegranate twinings sardine cola,['fruit'],['shopping'],0.5696406364440918,M
+479,bar granola nut almond oat cluster omega- cereal yogurt chia snack flax flaxseed sweet shiitake,['healthy snacks'],"['food', 'healthy']",0.7190680503845215,H
+480,item deal glad shop anymore become donut many supply disappoint sampler kill costco retail two,['disappointment'],['item'],0.5493093729019165,M
+482,bottle shipping available plastic everyone offer pleased delivery glass lemon seller mint sample purchasing peach,['convenience'],"['commerce', 'bottle']",0.6484146416187286,H
+486,market pasta difference stomach noodle brown hold mean sour cook soda coat upset nicely folk,['pasta'],['food'],0.6721094846725464,H
+487,snack healthy tasty cheese satisfy lunch crave healthier perfect fill dip cheddar crunchy yum school,['snack'],"['healthy', 'cheesy snack', 'snack']",0.7502329349517822,H
+491,cheese bread sauce flour chili stir garlic pork pizza waffle thai pan curry crust oven,['food'],"['food', 'food item']",0.9614781737327576,VH
+492,salt bean dish sea cooking pork kitchen gourmet rind table grinder basic process jamaica cook,['cuisine'],"['food', 'cooking', 'cooking and recipe']",0.803904136021932,VH
+495,favorite blend black wife decaf caffeine fantastic licorice fuel beer jet fair herbal robust root,['flavor'],['caffeine'],0.5709093809127808,M
+497,kind color broken shape fun vinegar bite unique describe spread crack everywhere beautiful expectation table,['vinegar'],['color'],0.6481073498725891,H
+501,vitamin powder fruit hemp aloe smoothy green splenda vera sweeten pulp passion fiber mac soy,['superfoods'],"['nutrition', 'smoothie', 'diet']",0.5265680948893229,M
+502,almond body smooth blue magnesium cause diamond reminds increase peppermint bowel nutrient rda blood source,['healthy'],['nutrient'],0.5515143871307373,M
+503,size baby quickly daughter thanks night work start month formula since pump move child lab,['growth'],['baby'],0.5571491122245789,M
+505,son result skin mom gas truffle strength winter fall complete workout grown station consistent suck,['fitness'],['skin'],0.6135727167129517,H
+506,syrup corn sweetener fructose agave maple nectar high sugar bowel diabetic movement glycemic hershey's natural,[' sweetener'],"['syrup', 'ingredient', 'syrup']",0.7163687944412231,H
+508,protein blood source diarrhea cause diabetes muscle dose approximately glucose mineral sugar tolerance that's absorbed,['metabolism'],"['body', 'diabetes']",0.6030876338481903,H
+509,bought free cooky butter peanut gluten cookie original sale super mom addict reasonable vegan prime,['healthy'],"['food', 'shopping']",0.41003724932670593,M
+512,juice peach oat mango glass orange pineapple fruit jasmine relax blackberry squirt pearl sweeten quaker,[' juice'],"['pearl', 'juice']",0.8305603265762329,VH
+515,chicken meat vegetable purchasing test hazelnut filler we're steak vegetarian exception by-product grill breast supplier,['food'],"['recipe', 'grocery']",0.6853107810020447,H
+516,quality chicken meat ingredient vegetable base purchasing salmon pricey turkey tuna hazelnut steak filler premium,['premium'],"['salmon', 'cooking item', 'food']",0.44129982590675354,M
+518,year two size old every last month start week since several baby long ago three,['infancy'],"['baby', 'child', 'time']",0.6857219735781351,H
+519,always powder vitamin aroma supplement teaspoon grow soy form along grass mineral hint hemp tablespoon,['healthy'],"['diet', 'supplement']",0.511669784784317,M
+521,help chew hour honey energy minute night hair toy bone skin drop effect trip within,['assist'],['honey'],0.7865827679634094,H
+522,free cooky butter peanut gluten cookie gum original sale reasonable vegan prime walmart fudge charge,['sale'],['recipe'],0.6684927940368652,H
+525,free cooky butter peanut gluten cookie shipping gum original reasonable prime vegan sale walmart fudge,['sweets'],['shop'],0.6270643472671509,H
+526,www http href com pie wolfgang puck roast ham pack smokehouse spam walden horseradish can,['smokehouse'],['internet'],0.487440288066864,M
+527,different hot many others available salad k-cups keurig creamy name way curry brewer choose table,['variety'],['food'],0.5715794563293457,M
+528,protein fat coconut fiber sodium calorie gram carbs splenda msg bpa ant grape antiox g<br,['healthy'],['diet'],0.4979948401451111,M
+529,per red spicy pepper heat option ounce brownie kick alone alternative single mill jalapeno popchips,['spicy'],['food'],0.5458222031593323,M
+531,right calorie bean low fat candy amount high small content sodium serve lower carbs prov,['diet'],['diet'],1.0000001192092896,VH
+533,calorie protein low fat content fiber weight sodium gram substitute high diet carbs lose msg,['healthy eating'],"['food component', 'diet']",0.5962638854980469,M
+539,purchase see happy company call ship sent website check send impressed chance contact directly email,['purchase'],['online purchase'],0.6447493433952332,H
+542,syrup artificial sweetener high sometimes chemical sweeten splenda stevia maple corn agave natural extract fructose,[' sweetener'],"['sweet', 'edible', 'sweetener']",0.8552009463310242,VH
+544,star fruit especially juice orange mind soda con instant substitute espresso five raspberry decent total,['drink'],['fruit'],0.6030191779136658,H
+546,size baby quickly daughter thanks night child today formula move start bed pump soon since,['growth'],['enfant care'],0.4741511344909668,M
+550,bar cereal butter peanut nut cracker almond granola yogurt oat raisin brownie quaker cashew walnut,[' snacks'],"['breakfast', 'food', 'nut', 'nutrition', 'eatable']",0.6906304240226746,H
+551,drinking mild espresso aftertaste brewing latte sip weird enjoy way guest might machine still appeal,['coffee'],"['coffee', 'cofee', 'coffee']",0.8667168815930685,VH
+552,review smell bad know i'll since disappointed people read open think reviewer seal thought reading,['disappointment'],['reading review by people'],0.27207452058792114,L
+553,cooky cookie mouth raspberry thin brownie fudge xylitol oreo package creme gooey think pan soft,['desserts'],"['sweet', 'desert']",0.4832746684551239,M
+554,chew pod pound bone toy caramel larger play puppy two minute pet rawh senseo safe,['playtime'],['pet'],0.5273084044456482,M
+561,package fresh item receive rice arrive gift white disappointed fast noodle awesome return customer service,['delivery'],['deliver service'],0.7608176469802856,H
+564,oil popcorn spice olive pop christmas worst garlic italian cooking kernel smoke sister regularly coconut,['food'],['cooking'],0.7952097654342651,H
+566,thing quite expect probably i'd seem n't either wish stock certainly stir kind though end,['uncertainty'],['afirmations'],0.7227545380592346,H
+567,problem away less pay leave never switch crystal heavy mate spray solution stool kong trash,['problem'],['financial'],0.5963624119758606,M
+568,oil energy olive skin magnesium blue body salt blood diamond take supplement help heart bowel,['health'],['energy supplement'],0.6608529090881348,H
+569,chip healthy tasty excellent fiber healthier lunch crave dip alternative satisfy crunch cheddar vinegar market,['snack'],"['food', 'nutrition', 'good food']",0.7256525158882141,H
+570,candy soup gift rice pasta noodle item thanks awesome customer service christmas contact tuna hol,['gift'],"['food', 'candy', 'christmas boxing day gift']",0.5311420361200968,M
+571,item several friend deal smooth gift glad black shop machine amaze licorice christmas espresso anymore,['gift'],['christmas gift'],0.670004665851593,H
+572,drinking brew bitter smooth machine ground mild maker aftertaste espresso filter pot brewing weak grind,['coffee'],"['coffee', 'brew drink with machine', 'drinking']",0.7515645027160645,H
+577,cost bpa general rate consumer particularly drive refill effective woman liter discount per sadly sodastream,['discount'],['cookware'],0.4926319122314453,M
+579,quality chicken meat ingredient vegetable purchasing salmon hazelnut pricey base turkey tuna filler steak actually,['food'],"['dinner', 'food']",0.8583538234233856,VH
+580,dry due liver freeze chunk walk gravy movie style cube lick frozen trick freezer tub,['chill'],['ice cold'],0.7435163259506226,H
+582,calorie protein low fat sodium fiber gram diet carbs carb nutrition high watch intake farm,['nutrition'],['nutrition'],1.0,VH
+588,snack chip healthy tasty family they're cheese potato apple alternative lunch salty crave satisfy enjoy,['snack'],['snack'],1.000000238418579,VH
+591,sauce cheese bread salad flour chili garlic pancake stir dress baking pork pizza mill waffle,['food'],"['food', 'italian food']",0.7675616145133972,H
+597,review see disappointed read reviewer call similar base label write another reading saw comment note,['disappointment'],['comunication'],0.5269286632537842,M
+598,big nut plus extra fan etc mixed hit microwave dessert flavour cashew thats walnut car,['nutty'],"['baking', 'kitchen']",0.39280785620212555,M
+600,local grocery cost home able deliver run available trip shelf visit door realize carry cheaper,['convenience'],"['delivery', 'purchase delivery']",0.5094620585441589,M
+603,green protein powder blue body vitamin soy daily magnesium normal fiber blood source splenda supplement,['healthy'],"['supplement', 'vitamin']",0.516910195350647,M
+606,sweet delicious bar milk cereal texture nut almond yummy cinnamon fill oatmeal cocoa granola strawberry,['sweetness'],"['milk', 'food dditives']",0.5163682401180267,M
+608,syrup artificial sweetener high chemical sweeten splenda sometimes maple stevia natural agave corn extract fructose,['sweetener'],"['ingredient', 'sweet', 'syrup']",0.7507153352101644,H
+610,morning breakfast indiv convenient wrap portion control ual afternoon ually deep worry early since anytime,['healthy'],['time'],0.5000162124633789,M
+611,sweet bar milk cereal texture yummy kind cinnamon granola strawberry chewy soft whole crunch blueberry,['indulgence'],['breakfast'],0.4805056154727936,M
+615,cooky rice soup pasta season noodle cookie tomato tuna fudge hol wasabi steak bubble broth,['soup'],"['soupe', 'soup', 'cooking']",0.8842977484067281,VH
+616,popcorn baby pill he's movie pump kernel puff gerber popper earth's fussy theater hour pocket,['popcorn'],['motherhood'],0.3406340181827545,M
+617,sauce spicy noodle heat kick chili restaurant lime pepper wasabi asian hot soy taco ramen,['spicy'],"['food', 'asain food']",0.5408378839492798,M
+619,health fact normal lower person particular issue trouble consume possible gummy bear crisp adult system,['health'],['health'],1.0000001192092896,VH
+621,snack chip healthy tasty family they're cheese potato apple alternative salty satisfy lunch enjoy crave,['snack'],"['food', 'diet']",0.7781657874584198,H
+622,star caffeine child sometimes five hop office gelatin calm help program terrific golden heck carbonate,['caffeine'],['health'],0.5588608980178833,M
+624,quality chicken meat vegetable base ingredient purchasing salmon pricey hazelnut etc turkey tuna steak higher,['premium'],"['food', 'shopping']",0.5459693372249603,M
+627,snack bar cooky cereal butter fruit peanut nut cookie cracker sweet almond apple crunchy oatmeal,['snacks'],"['breakfast', 'food', 'oatmeal']",0.6785240173339844,H
+631,local piece grocery sell deal whole carry market glad online break hop surprised unfortunately flour,['grocery'],['market'],0.7102774381637573,H
+632,work package receive surprised sample recipe future description party careful damage pleasantly n't sure think,['surprise'],['surprise party'],0.6743735074996948,H
+634,bread flour toast traditional member celiac mustard recipe disease yeast baking needle dough chinese loaf,['baking'],['ingredient'],0.6434136033058167,H
+637,buying money cheaper compare bulk dont costco save personally finger hate spend waste cent range,['bulk buying'],"['compare deal', 'money', 'retail', 'trade', 'costco save']",0.621114194393158,H
+638,bar crunchy yummy cinnamon granola crunch yogurt blueberry cereal combination addict raisin sweet almond flake,['crunchy'],"['food', 'desert']",0.5189914107322693,M
+641,box package shipping receive item purchase arrive pack candy packaging deal company open ship look,['shipping'],"['shipping', 'package']",0.8804020881652832,VH
+644,bottle shipping grocery cost subscribe delivery pay carry available per seller hazelnut prime charge free,['grocery'],"['shipping', 'shipping', 'grocery']",0.7224105993906657,H
+646,open place container easily soft hold melt together close mess shape stuck somewhat cool chewy,['glue'],['container'],0.7066088914871216,H
+647,rice meal content ginger contain dinner sprinkle cooked thai fairly snap they've firm palm stew,['thai cuisine'],"['cooking', 'rice']",0.5468612313270569,M
+654,blend morning breakfast packet brew indiv mild wrap stevia ual convenient afternoon liqu ually pour,['convenience'],['morning'],0.555207371711731,M
+656,green wonderful bean vanilla black drinking honey ice orange cold iced indiv lemon caffeine refresh,[' refreshment'],"['food', 'drinking', 'drink']",0.6513275504112244,H
+661,packaging free big value available con hair difficult damage shipping clear ering prime search bacon,['convenience'],['delivery'],0.5409570932388306,M
+664,bar crunchy yummy cinnamon granola crunch sweet yogurt cereal blueberry combination raisin addict flake almond,['snack'],"['yougurt', 'dessert']",0.7694703936576843,H
+666,mix cream ice pour strawberry pancake waffle stir muffin pomegranate frozen whip grainy instead lollipop,['dessert'],['food'],0.7563474178314209,H
+667,bar almond granola nut oat cluster omega- chia yogurt flaxseed clif flax cereal shiitake mar,['nutrition'],['breakfast'],0.6392391920089722,H
+668,rice meal ginger content contain picky sprinkle dinner label eater cooked thai fairly serve snap,['thai rice'],"['food', 'thai food', 'meal', 'rice', 'cooking']",0.6036872446537018,H
+674,butter peanut illy mate exact ginger palm compromise newman's flowery toddler moth cooky blackcurrant tin,['food'],['butter'],0.5854796767234802,M
+675,company available care awesome search sent licorice send call contact email finally business affordable amazon's,['amazon'],['company business'],0.36222121119499207,M
+680,star corn potato reason veggie often salty kettle rating garden addictive carrot rate sesame earth's,['vegetables'],"['kitchen', 'food']",0.7166998088359833,H
+681,bought local grocery cost buying cheaper able carry deliver live run plant stop shelf supermarket,['shopping'],"['grocery store', 'buying']",0.812070906162262,VH
+685,sauce cheese bread recipe spicy season cake salad egg flour chili tomato baking fry stir,['baking'],['cooking'],0.8271106481552124,VH
+686,item deal shop anymore guy supply disappoint donut sampler go lavazza recieved settle cheapest cornbread,['disappointment'],['cafe restaurant'],0.24435386061668396,L
+690,always case salty live awesome sour hooked tuna suggest cheddar crispy pantry since tangy heaven,['flavor'],['taste'],0.9172159433364868,VH
+692,snack chip healthy tasty family they're cheese potato apple alternative salty enjoy satisfy lunch crave,['snacking'],"['culinary', 'snack', 'healthy snack']",0.7647093137105306,H
+693,nice salt hard color cracker kind smaller dish bite broken shape sea hit different vinegar,['snacks'],"['sea food', 'salt']",0.5924279093742371,M
+695,nice hard kind never back please mountain overpower describe puff surprise lighter bring compare rarely,['pleasant'],['character'],0.5198101997375488,M
+696,calorie low fat protein weight fiber content high sodium gram diet substitute carbs lose lower,['healthy diet'],"['weight', 'nutrition', 'diet']",0.5941651662190756,M
+701,green powder vitamin supplement form teaspoon tablespoon nutritional protein outstanding smoothie grass calcium hemp mineral,['superfood'],"['supplement', 'nutritional supplement']",0.5907721221446991,M
+703,pretty especially often set mind instant decent total starbucks five roll point oat plenty via,['convenience'],"['starbucks', 'pretty']",0.6220661997795105,H
+704,rice meal ginger content contain sprinkle dinner cooked thai snap they've fairly breast palm brown,['thai cuisine'],"['food', 'cooking']",0.5611449182033539,M
+707,organic natural real expensive high syrup artificial sweetener pleased flour wheat corn chemical maple preservative,['healthy'],"['food industry', 'organic food']",0.423449844121933,M
+711,review see disappointed read value another reviewer similar base call label write reading comment note,['evaluation'],"['book publishing', 'product review']",0.6387632191181183,H
+712,cut actually wheat texture miss oat biscuit seriously unlike quaker winner country absolute whole oatmeal,['grain'],"['whateat', 'food']",0.5974622070789337,M
+717,purchase happy ship offer website wonder impressed chance directly mother elsewhere enjoys promptly refund express,['shopping'],"['online purchase', 'purchase']",0.6966661214828491,H
+720,chew minute three gum mouth special cinnamon four third bubble xylitol swallow adore jump crumble,['spice'],['mouth'],0.755029559135437,H
+724,rice meal ginger content contain sprinkle dinner cooked thai snap breast brown they've fairly chicken,['meal'],['food'],0.9369831085205078,VH
+726,oil popcorn spice everything pop season olive chai cooking christmas garlic fish movie worst mustard,['spice'],"['cooking', 'movie ’ s']",0.5717657804489136,M
+729,cooky butter peanut gluten cookie free we've reasonable walmart wheat allergic sale celiac allergy soy,['allergy-friendly'],['alimentation'],0.4400483965873718,M
+735,vanilla light keurig k-cups french k-cup aroma medium chai mountain starbucks smooth brewer matcha hint,['coffee'],['drink'],0.6800295114517212,H
+736,free gluten salmon wet bpa turkey balance higher sol fussy cancer allergy tomato ocean diet,['healthy eating'],['gluten allergy'],0.2420138120651245,L
+737,pretty star fruit juice cut orange mind soda exactly instant substitute raspberry five decent sour,['fruit'],['fruit'],1.0,VH
+740,mix cream ice strawberry pour pancake waffle pomegranate recipe muffin frozen margarita lollipop baking fluffy,['dessert'],"['food', 'dessert', 'kitchen', 'make dessert', 'food', 'sweet']",0.7814394136269888,H
+741,purchase happy item company ship see bulk exactly sent condition offer packed website impressed chance,['bulk purchasing'],"['website', 'purchase']",0.5511710047721863,M
+743,sauce spicy noodle heat kick chili restaurant pepper lime wasabi asian hot soy taco indian,['spicy'],"['restaurant', 'food']",0.5141727775335312,M
+745,ingredient honey list label contain special prov contains process raw test splenda berry site china,['ingredient'],['cooking'],0.7057843804359436,H
+747,drinking brew bitter machine ground mild maker aftertaste espresso filter brewing weak grind pot cappuccino,['coffee'],['coffee'],1.0,VH
+749,salt bean dish sea cooking pork kitchen gourmet rind table grinder basic amount cook process,['cuisine'],"['cooking', 'recipe']",0.8096526861190796,VH
+752,dog treat chew toy bone teeth ball puppy training liver piece bread pet play vet,['pet care'],"['pet', 'dog', 'pet supplement']",0.7990854978561401,H
+753,sauce spicy noodle heat kick chili restaurant lime pepper hot wasabi asian bbq ramen salsa,['spicy'],"['asian food', 'cooking', 'asían food', 'sauce']",0.6060830950737,H
+754,oil energy gum bone hair toy olive skin magnesium diamond body boost blue supplement truffle,['health'],['body'],0.6310311555862427,H
+756,arrive second gum hope date online however original past finish last today stale broken shipment,['delivery'],['second'],0.7534956932067871,H
+757,flour egg grain large boy mill disease poor celiac kibble recipe choke allergy formula risk,['food'],"['recipe', 'bread']",0.6964157223701477,H
+758,rice soup pasta noodle service customer tuna vendor country hol wasabi usa pea bubble birthday,['food'],"['restaurant', 'shop']",0.7021860480308533,H
+759,perfect fresh honey packaging cracker plastic condition lover fit convenience packed sit package described mini,['convenience'],['bake good'],0.663314938545227,H
+763,hair thick clear heard wash head scent shampoo conditioner oily scalp apply shiny manufacturer shower,['grooming'],"['shampoo and conditioner instruction', 'hair', 'hair product']",0.7017608086268107,H
+764,rice meal bowl ginger content picky label dinner sprinkle brown eater fairly cooked contain thai,['thai rice bowl'],"['thai food', 'bowl']",0.6428664028644562,H
+767,green protein powder vitamin meal mixed soy pouch shake contains fiber splenda nutrition matcha form,['healthy drink'],['food'],0.5003481507301331,M
+769,rice meal ginger content picky contain dinner label sprinkle eater bowl fairly cooked thai brown,['thai rice'],"['rice meal', 'rice']",0.7887424826622009,H
+770,snack chip healthy tasty family they're cheese potato apple alternative meal quick salty satisfy gram,['snacking'],"['speed meal', 'healthy']",0.48241522908210754,M
+778,purchase happy company see ship website impressed call chance directly email send contact mother gold,['purchase'],['company'],0.8081338405609131,VH
+783,sweet right candy quick amount enjoy refresh sweetness cold mango summer think plain ant chunk,['refreshment'],"['candy', 'food']",0.5376016795635223,M
+792,per red spicy pepper heat option ounce brownie kick alone single mill alternative popchips jalapeno,['spicy'],['cooking'],0.5606808066368103,M
+795,chew pod mouth bone pound toy puppy last play around minute two size creamer rawh,['plaything'],['dog toy'],0.5046428442001343,M
+799,brew bitter bold starbucks decaf instant drinker weak via smooth mocha peppermint yet strong ground,['coffee'],['starbucks'],0.8427362442016602,VH
+800,wish recipe cake n't bake melt baking stuck toast moist cover direction freezer pan barely,['baking'],['baking'],1.000000238418579,VH
+802,sauce spicy noodle kick heat lime restaurant hot pepper chili asian ramen jasmine wasabi bbq,['spicy'],['food and restaurant'],0.4372882843017578,M
+808,snack healthy tasty excellent fiber lunch healthier satisfy enjoy something crave dip yum without terrific,['healthy snack'],"['healthy food', 'food', 'snack', 'snack']",0.7669286727905273,H
+810,calorie protein low fat weight sodium fiber gram high content diet carbs lose substitute carb,['diet'],"['nutrition', 'diet']",0.9254242777824402,VH
+813,definitely regular red serve less cheaper alternative option buying ounce alone however lack twice light,['alternative'],['buy'],0.6912137866020203,H
+818,rice meal ginger content contain picky sprinkle dinner label eater cooked fairly thai snap serve,['thai rice'],"['food', 'meal']",0.47950221598148346,M
+822,chip blend roast com www http href keurig k-cups brew bold pod french starbucks k-cup,['coffee'],['coffee'],1.0,VH
+827,hot milk cold stomach diet substitute shake warm sensitive soy nasty dissolve upset pain dairy,['digestion'],"['milk', 'cold']",0.5614508092403412,M
+832,enjoy strong morning brew blend bitter smooth packet machine starbucks perfect aftertaste prefer iced cold,['coffee'],['coffee starbucks'],0.8482440710067749,VH
+833,absolutely grain there's process terrible experience satisfied replace sticky wild anyway disgust lol freshness average,['disgust'],['comment'],0.5822148323059082,M
+834,cat meat ingredient corn dog vitamin calcium feed cat's human ground expensive finicky bone beef,['cat food'],"['cat meat', 'meat']",0.5824220031499863,M
+835,bitter almond blue cocoa iced magnesium wait grey diamond earl beat rda bowel nutrient blood,['healthy'],['nutrition'],0.5900941491127014,M
+836,item deal shop anymore supply donut sampler many lavazza buck recieved disappoint cornbread dunkin kill,['disappointment'],['donut shop'],0.24142566323280334,L
+837,ingredient natural list special contains raw prov label berry china preservative contain site usa book,['natural'],['natural'],1.000000238418579,VH
+838,piece beef jerky bowl turn break picky pill training dont two gravy eater bite cut,['snack'],['training'],0.47023409605026245,M
+850,end hair felt clear heard opening thick wash scent job shampoo major conditioner trust oily,['hair care'],"['hair treatment', 'salon']",0.8138598203659058,VH
+853,chip potato vinegar kettle garden bbq popchips greasy corn addictive tortilla somehow trap blue starch,['snacks'],"['food', 'chip']",0.66371750831604,H
+854,ingredient corn chicken gluten feed meat pet grain vet wheat allergy wellness liver animal salmon,['nutrition'],['rear animal'],0.508280873298645,M
+858,year old save soup awesome subscribe ago carry area chili discover tomato stock bpa since,['sustainability'],['save'],0.706432580947876,H
+860,bread recipe flour baking simple traditional toast sandwich mustard member celiac pizza disease rise yeast,['baking'],"['pizza', 'food', 'cooking pizza']",0.6126069823900858,H
+861,bar cereal nut almond granola snack sweet cinnamon blueberry banana raisin oat crunchy cake cashew,['snack'],"['fruit cake', 'food', 'bar cereal']",0.6569437781969706,H
+866,always several powder usually chai gold replacement scoop meal living tablespoon since nature authentic orgain,['spices'],"['chai', 'powder']",0.633022278547287,H
+867,bread flour cereal pancake baking pizza gluten-free mill crust cake wheat gluten dough pretzel bob's,['bakery'],"['cake', 'baking']",0.7480708956718445,H
+870,dry liver due freeze chunk walk gravy movie lick style cube frozen tub reward beg,['cold'],['liver'],0.3820444345474243,M
+880,rice absolutely grain there's process soon terrible satisfied experience replace wild sticky disgust lol freshness,['food'],['grain'],0.5595817565917969,M
+881,delicious small anyone smaller locally six comment tire handy broke trader definately inch joe's interested,['food'],['sale'],0.5657655596733093,M
+882,enjoy strong morning brew bitter blend packet perfect aftertaste starbucks regular cold iced mild indiv,['coffee'],['coffee'],1.0,VH
+884,sauce rice meal cook soy dish thick dinner cooked brown simple sprinkle consistency restaurant slice,['sauce'],"['dinner', 'sauce', 'cooking process']",0.6876107354958853,H
+885,bread flour traditional toast baking recipe mustard member celiac disease yeast needle rise dough chinese,[' baking'],"['baking', 'cooking']",0.9135553240776062,VH
+890,sweet bar crunchy granola crunch yogurt combination raisin flake almond cranberry nutritious overly tooth sugary,['healthy snack'],"['food', 'snack']",0.6892995238304138,H
+891,ingredient organic natural corn free gluten chicken syrup feed pet list meat wheat grain diet,['natural'],"['pet food', 'organic', 'healthy food']",0.5983766118685404,M
+893,stuff coconut cream ice health cannot tell benefit told wow everyday jelly must admit pomegranate,['healthy'],['sugar free ice cream'],0.5546827912330627,M
+900,dry feel worth pasta brown stomach money extremely pill waste coat liver dont freeze wet,['health'],"['cooking', 'food']",0.5130481719970703,M
+901,buying money cheaper compare bulk dont hate costco personally finger cent spend retail range pull,['bulk buying'],['buying'],0.7731249928474426,H
+902,grocery cost able home deliver run trip shelf visit plant door ask realize live gallon,['convenience'],['deliver'],0.6509734988212585,H
+903,perfect easy shipping con fast quick delivery seller ering pro reach reasonably bonus tad pick-me-up,['fast'],"['courier', 'shipping', 'delivery']",0.6029995083808899,H
+904,pasta turn brown cook coat crave mean dollar nicely folk worse awhile kitty throat tongue,['food'],"['cooking', 'pasta']",0.7336596250534058,H
+905,feed corn gluten pet vet ingredient wellness liver chicken meat filler science diet kibble fructose,['nutrition'],"['science', 'gluten']",0.5373198240995407,M
+906,every month week two family friend gift ago life already lose grow plant none weight,['change'],['sport diet'],0.3980078101158142,M
+912,oil salt chew energy help gum bone hair body toy olive skin blue magnesium night,['health'],['nutrition growth energy'],0.6199634075164795,H
+916,enjoy right bean candy amount quick cold refresh sweetness mango summer warm quantity hint beverage,['summer'],['refresh'],0.5783891677856445,M
+918,brew bitter bold starbucks decaf instant drinker weak via smooth mocha strong peppermint magic yet,['coffee'],"['coffee', 'mocha']",0.7872240841388702,H
+919,bottle excellent available plastic everyone pleased delivery glass lemon offer mint sample travel clear lime,['convenience'],['bottle'],0.6171716451644897,H
+921,calorie protein low fat sodium gram high carbs diet carb nutrition watch farm amount reduce,['diet'],"['nutrient', 'diet']",0.8425675928592682,VH
+923,ingredient chicken meat include label vegetable purchasing salmon pricey hazelnut fish filler gravy turkey premium,['food'],"['culinary', 'shop', 'cooking']",0.7422224879264832,H
+924,dog treat training liver greenies ball dog's pup puppy beneful teeth owner reward beagle pet,['dog training'],['animal'],0.5227417945861816,M
+927,calorie low fat protein sodium gram serve high carbs diet carb weight nutrition per watch,['diet'],"['diet', 'diet', 'nutrition', 'nutrition', 'health and nutrition']",0.8850231885910034,VH
+928,mix sauce cheese recipe bread spicy pepper cook season cake meal chicken salad bake egg,['recipe'],"['burger', 'recipe', 'cock']",0.6744591196378072,H
+929,big nut plus extra fan etc mixed hit dessert flavour car cashew thats walnut soooo,['nutty dessert'],['flavour'],0.6212462782859802,H
+931,chip star potato reason salty corn veggie thin rating kettle rate garden addictive greasy sesame,['snacks'],"['food', 'snack']",0.86648890376091,VH
+932,item candy soup gift rice pasta noodle awesome customer thanks sent christmas service stock contact,['gift'],"['shopping', 'christmas gift', 'cooking']",0.6159326036771139,H
+936,quality meat vegetable hazelnut base purchasing turkey tuna hooked pricey steak we're burnt thick grill,[' grill'],"['quality of food be purchase and cooked', 'food', 'cooking']",0.6753687858581543,H
+937,able amaze fill stop glad daily fantastic move plenty prime empty job subtle strongly litter,['amazement'],['feeling'],0.7945316433906555,H
+940,bread flour toast traditional member mustard celiac recipe baking disease yeast needle dough chinese loaf,['bread'],"['baking', 'ingredient']",0.6871917545795441,H
+946,chicken meat vegetable purchasing test hazelnut filler we're steak vegetarian by-product exception ingredient grill supplier,['food'],"['shop', 'steak']",0.5863698124885559,M
+947,protein fat coconut fiber sodium gram calorie carbs splenda msg bpa ant grape antiox g<br,['healthy'],"['ingredient', 'ingrudents']",0.3951474130153656,M
+949,chicken meat vegetable purchasing hazelnut filler test ingredient we're steak vegetarian by-product duck grill gloria,['food'],['ingredient'],0.630787193775177,H
+961,container teeth vet clean pet result research cheap issue basically breath greenies major manufacturer junk,['dental'],['teeth'],0.8059486150741577,VH
+963,green powder amaze vitamin grow aroma matcha form teaspoon supplement tablespoon leaf extract protein milk,['matcha'],"['matcha', 'vitamin']",0.7559748888015747,H
+968,oil popcorn olive pop movie wasabi kernel sardine popped popper coconut truffle formula theater virgin,['popcorn'],"['food', 'movie night']",0.47166702151298523,M
+973,right bean candy quick refresh grind mango beverage sweetness ant pineapple cold antiox unique grinder,['sweetness'],"['refresh beverage', 'drink']",0.63840252161026,H
+974,strong prefer people bold orange ginger medium weak cherry shake twice stronger subtle bitterness still,['spice'],"['people', 'taste']",0.7140985429286957,H
+975,oil popcorn spice pop olive christmas worst italian garlic microwave regularly kernel smoke sister cooking,['cooking'],['cooking'],1.0000001192092896,VH
+976,absolutely fast white super service customer return terrible satisfied horrible replace sticky process package disgust,['customer service'],"['online shopping', 'express expedition', 'review']",0.5426426728566488,M
+977,cheese bake could homemade fry slice spoon onion spread style cardboard sandwich oven contact put,['baking'],"['food', 'cooking']",0.7182536125183105,H
+979,vanilla keurig k-cups light french k-cup aroma medium chai matcha brewer starbucks hint blend mountain,['coffee'],"['coffee', 'drink tea', 'cappuccino']",0.7390192747116089,H
+980,need keep hand clean teeth around seem longer high basically issue breath vet greenies help,['oral hygiene'],['cleaning product'],0.7434419393539429,H
+983,oil help salt energy coconut take feel hair olive body work magnesium hour skin health,['wellness'],"['oil', 'health']",0.6983562409877777,H
+985,local grocery cost able deliver buying shelf trip stop realize door visit way ask half,['grocery'],"['grocery', 'shopping']",0.8787988722324371,VH
+986,different bottle excellent available plastic everyone glass lemon sample refresh mint travel value clear hazelnut,['travel'],['drink'],0.7519237995147705,H
+988,bottle shipping grocery cost carry available pay subscribe delivery local pleased per free cheaper seller,['grocery'],"['delivery', 'shopping online']",0.5697466135025024,M
+989,chip healthy snack tasty excellent lunch crave healthier fiber salty dip satisfy alternative crunch cheddar,[' snack'],"['snack', 'food', 'snack']",0.9315479397773743,VH
+990,always case salty awesome live sour hooked tuna cheddar crispy pantry since tangy new suggest,['salty'],"['tuna', 'food']",0.5910487174987793,M
+991,snack healthy tasty excellent lunch healthier satisfy crave fiber something enjoy dip yum terrific world,['satisfy'],"['snack', 'junk food', 'lunch']",0.43675098816553753,M
+993,local piece grocery sell deal carry market glad online break hop surprised unfortunately whole flour,['grocery'],"['shopping local grocery online', 'commerce', 'shopping']",0.65977942943573,H
+996,feel hour energy effect work shot pizza boost felt lack crust favor faster ent stay,['energize'],['energy drink'],0.6960902214050293,H
+997,chip star potato corn vinegar kettle yellow blue addictive garden trap tortilla reason think whole,['snacks'],['chip'],0.5432937145233154,M
+999,feed corn gluten pet vet ingredient wellness liver animal chicken meat filler science diet kibble,['nutrition'],"['diet', 'nutrition']",0.9254242479801178,VH
+1001,package item receive fresh rice soup absolutely disappointed white fast anyone wrong noodle awesome return,['disappointment'],['food'],0.38866162300109863,M
+1003,bottle glass lemon plastic prov mint peach sparkle mio tip squirt tap grab iced electrolyte,['drink'],['beverage'],0.8877449631690979,VH
+1007,item deal shop anymore supply donut disappoint buck guy sampler lavazza go recieved kill cornbread,['disappointment'],['shopping'],0.3720574378967285,M
+1011,baby jerky broken ready veggie pump increase fall tender barely carrot freezer previously gerber earth's,['snacks'],['mother and child'],0.344110369682312,M
+1012,oil popcorn spice everything pop olive season chai cooking christmas garlic fish worst italian movie,['spice'],"['food', 'cooking']",0.5971592664718628,M
+1022,bar sweet crunchy granola yogurt crunch cereal snack raisin flake combination almond texture cranberry nutritious,['snack'],"['snack', 'snack']",1.0000001192092896,VH
+1024,mix ice cream strawberry pour pancake waffle pomegranate recipe muffin baking margarita milk fluffy lollipop,['desserts'],"['sweeten', 'sweetener', 'dessert']",0.7888675729433695,H
+1036,drinking brew bitter machine ground mild maker aftertaste espresso pot filter brewing weak grind smooth,['coffee'],['smoothie'],0.6398345232009888,H
+1037,say way without though fine think yes still ton warn doubt felt people meant either,['uncertainty'],['conversation'],0.5622533559799194,M
+1038,free gluten balance salmon wet turkey diet since fussy kitten ocean limit grain-free smelly important,['diet'],['diet'],1.0000001192092896,VH
+1045,ingredient natural corn free gluten chicken syrup feed pet meat wheat grain vet diet allergy,['natural'],"['animal food', 'pet food']",0.4118288904428482,M
+1047,oil spice olive cooking christmas garlic worst smoke italian sister recipe virgin canola extra regularly,['cooking'],"['italian dinner', 'virgin canola']",0.4043959081172943,M
+1049,green protein powder vitamin body soy normal fiber source mixed contains shake daily con meal,['healthy'],"['health benefit', 'protein powder', 'nutrition']",0.5540749529997507,M
+1053,sauce rice meal cook soy dish thick brown dinner cooked simple sprinkle cooking restaurant kitchen,['cooking'],"['food', 'cooking']",0.8976047933101654,VH
+1054,old buying easy save soup carry subscribe awesome chili tomato son cheaper area daughter prepare,['convenience'],"['soup', 'cooking']",0.4842815697193146,M
+1055,fruit top plus nut fan cake mixed hit banana dessert microwave big flavour car etc,['flavor'],['food'],0.699975848197937,H
+1063,work hour energy husband minute feel effect boost pizza shot ent caffeine actually crust sleep,['energy'],['food'],0.5505493879318237,M
+1065,rice add soup gum cook pasta brown chicken stuff noodle wish review dish beef recipe,['food'],"['food', 'cooking', 'cooking a meal']",0.8402703603108724,VH
+1067,regular serve light red ounce single option alone typically enjoyable combine popchips however least tend,['snack'],['single'],0.5117369890213013,M
+1072,work hour minute actually energy husband cheese amaze everyone shot effect boost pizza felt drinking,['amazement'],['boost energy'],0.6084984540939331,H
+1077,local grocery home deliver half ask realize trip shelf door brought picked reorder shopping across,['grocery'],"['buy', 'order']",0.5851412415504456,M
+1079,sweet bar perfect milk fruit texture granola yummy crunchy cinnamon blueberry strawberry yogurt flake soft,['sweetness'],"['fruit cake', 'food', 'for breakfast', 'breakfast bowl']",0.4663643464446068,M
+1084,green powder vitamin supplement form teaspoon tablespoon nutritional protein smoothie outstanding grass calcium hemp mineral,['superfood'],"['vitamin', 'suplements']",0.6271005868911743,H
+1087,something put sure thought anything nothing end else stick let know everything turn there's course,['thought'],['thought'],1.0000001192092896,VH
+1088,bitter brew bold starbucks instant decaf strong via weak smooth mocha drinker peppermint magic yet,['coffee'],"['starbucks', 'coffeelate']",0.8893289268016815,VH
+1095,salt bean dish cooking sea kitchen gourmet table pork basic additional grinder rind learn palate,['cuisine'],"['dish', 'food', 'food']",0.8219356934229533,VH
+1097,fruit top plus nut fan cake mixed hit huge banana dessert etc microwave car flavour,['dessert'],"['food', 'dessert', 'cake']",0.85183717807134,VH
+1100,juice wrong waste throw soda show strawberry money guess drop could immediately bottle concentrate squeeze,['juice'],"['soda', 'juice']",0.8682196140289307,VH
+1106,every two month week family friend gift ago life already lose grow plant none ready,['change'],['growth'],0.6835878491401672,H
+1109,money value bulk difficult okay quantity msg bacon number unique what's jasmine spent glutamate monosodium,['value'],['msg'],0.6618665456771851,H
+1111,thing kind though quite seem expect i'd way wish bread probably recipe rather melt bake,['baking'],['study class'],0.3549990653991699,M
+1113,package fresh receive absolutely disappointed fast white return customer service terrible costco satisfied horrible sticky,['disappointment'],['delivery'],0.5509719252586365,M
+1114,nice never hard back definitely kind please bring surprise overpower describe lighter memory chose rock,['surprise'],['nice'],0.5538409352302551,M
+1117,always sure last case they're two week couple jar part mine maybe someone open seed,['reliance'],['seed'],0.6869499683380127,H
+1121,purchase see happy company call ship offer bulk sent website check send impressed chance contact,['purchase'],"['purchase', 'offer']",0.9272512793540955,VH
+1124,cooky butter peanut gluten cookie free sale we've reasonable walmart newman's consistency jam blow website,[' cookies'],['supermarket'],0.5236940383911133,M
+1125,right calorie bean low amount fat candy high light content sodium carbs small mango weight,['healthy'],['meal plan'],0.3352435231208801,M
+1126,chocolate chip sauce hot com www http href cheese pack spicy pepper salt potato cocoa,['spicy'],"['food', 'food']",0.5458222031593323,M
+1132,chicken meat vegetable purchasing hazelnut ingredient filler test steak we're vegetarian by-product real duck know,['food'],"['food', 'cooking', 'diet meal']",0.8459574182828268,VH
+1133,free packaging value big hair con difficult available shipping damage clear ering prime bacon shampoo,['convenience'],['shipping'],0.5422366857528687,M
+1134,vanilla french aroma medium k-cup hint matcha creamer bitterness burnt caribou roast wolfgang puck match,['coffee'],"['food', 'coffee and tea']",0.678872138261795,H
+1135,without help morning son oatmeal skin warm daily gas mom result fall truffle fix winter,['morning'],['oatmeal'],0.38343703746795654,M
+1138,calorie protein low fat sodium carbs high gram diet carb nutrition watch amount farm diabetic,['diet'],"['health', 'diet', 'sugar level']",0.7737536827723185,H
+1139,say can't regular least wait cocoa beat alot needle yorkshire stem imagine one's mean string,['imagination'],['cocoa'],0.5107760429382324,M
+1141,water sugar drink bottle calorie low fat syrup add juice high powder serve protein mix,['drink'],"['drink', 'drink']",1.0,VH
+1142,syrup artificial sweetener high chemical sweeten splenda maple sometimes natural stevia agave corn extract fructose,['sweetener'],"['sweet', 'sweeten']",0.9029289782047272,VH
+1143,green protein powder meal vitamin mixed fiber soy pouch contains shake source daily nutrition prov,['nutrition'],"['nutrition', 'healthy']",0.7950470745563507,H
+1144,vanilla french aroma k-cup medium hint matcha bitterness creamer burnt caribou press wolfgang match subtle,['coffee'],"['creamer', 'beverage']",0.7199159562587738,H
+1151,sauce spicy apple pepper noodle heat kick chili hot restaurant lime tomato wasabi bland bbq,[' spicy'],"['food', 'spicy', 'sauce', 'restaurant', 'barbecue']",0.6370439410209656,H
+1152,easy fruit top family plus nut apple cake hit mixed egg caramel extra banana mess,['delicious'],['fruit'],0.549609899520874,M
+1154,organic natural real expensive high syrup wheat artificial sweetener pleased flour chemical corn care maple,['natural'],"['food', 'ingredient']",0.5083147883415222,M
+1155,snack chip healthy tasty family they're cheese apple potato alternative salty enjoy satisfy lunch crave,['snack'],"['snack', 'chip']",0.7875481247901917,H
+1157,fuel jet illy espresso starbucks lavazza saffron soil tiger blade defective soap bean dang lavender,['coffee'],['jet'],0.43774646520614624,M
+1159,green protein powder meal vitamin mixed soy fiber pouch contains shake source nutrition matcha form,['green smoothie'],"['supplement', 'proteína shake']",0.5177927762269974,M
+1160,bottle glass lemon mint prov plastic peach sparkle mio tip squirt half tap usually electrolyte,['sparkling'],['fresh veberage'],0.673278272151947,H
+1164,green bean vanilla wonderful black honey ice drinking orange cold iced indiv lemon caffeine refresh,['iced coffee'],"['drink', 'beverage', 'recipe']",0.5045791467030843,M
+1165,sweet delicious bar milk cereal texture fruit nut definitely perfect yummy almond cinnamon oatmeal fill,['sweetness'],"['sweet', 'cooking term', 'cooking']",0.5839351216952006,M
+1166,actually texture cut version wheat pasta search miss cook office unlike oat biscuit seriously winner,['pasta'],"['pasta', 'krackers']",0.7694322466850281,H
+1169,cheese bake homemade could fry slice onion spoon put contact spread sandwich oven somewhere cardboard,['baking'],"['food', 'cooking', 'homemade food']",0.7028826872507731,H
+1170,purchase happy ship impressed wonder chance directly mother elsewhere promptly express sister's encounter insert refund,['purchase'],['order'],0.876748263835907,VH
+1171,cooky cookie mouth bite raspberry thin brownie fudge crumb xylitol oreo creme soft gooey chewy,['dessert'],['cookie'],0.7080201506614685,H
+1184,place container easily soft hold melt together open mess shape stuck chewy somewhat cool around,['meltable'],['cooking'],0.5199218988418579,M
+1186,thing quite expect probably i'd n't rather certainly either enough stir awful often though bother,['disappointment'],['word'],0.5023170113563538,M
+1187,chicken meat vegetable purchasing hazelnut test we're steak real vegetarian grill enjoy gloria rub exception,['food'],"['food', 'cooking']",0.8976049423217773,VH
+1188,help coconut difference tell cannot benefit everyday pleasant told improve health munch along temperature many,['healthy'],['health'],0.7051655054092407,H
+1189,mix sauce cheese recipe bread spicy pepper cook season cake chicken meal salad bake egg,['recipe'],"['food', 'cooking food', 'food']",0.6821274558703104,H
+1195,free cooky butter peanut shipping gluten cookie gum original melt reasonable prime bake vegan walmart,['baking'],"['baking', 'butter cookie']",0.8893344402313232,VH
+1198,ingredient corn chicken gluten feed meat syrup pet grain wheat vet diet allergy wellness liver,['nutrition'],"['food', 'diet']",0.8101105690002441,VH
+1199,ingredient organic natural corn real syrup list label grain expensive artificial pet ginger feed wheat,['natural'],"['corn syrup', 'food']",0.3541598469018936,M
+1201,salt bean dish sea kitchen gourmet pork ground basic rind grinder jamaica marley shaker collection,['cuisine'],['kitchen'],0.7446938157081604,H
+1203,diet feed change pet vet switch formula wellness kibble eats crazy dry science allergy grain,['nutrition'],['pet'],0.5140084028244019,M
+1208,strong prefer bold people orange ginger medium weak shake cherry mostly twice stronger subtle bitterness,['spice'],['shake drink'],0.5732151865959167,M
+1209,far butter peanut recently consistency we've supermarket reasonable newman's walmart hopefully blow they'd macadamia apricot,['supermarket'],['peanut'],0.5028095245361328,M
+1211,calorie low protein fat coconut diet juice serve fiber sodium gram weight vitamin per carbs,['diet'],['nutrition'],0.8508486747741699,VH
+1212,salt bean dish ground sea kitchen gourmet pork table basic rind grinder jamaica marley shaker,['cuisine'],['kitchen'],0.7446938157081604,H
+1214,soup rice pasta noodle candy thanks service customer vendor tuna contact country hol pea bubble,['food'],"['food', 'food']",1.000000238418579,VH
+1215,calorie protein low fat coconut diet fiber sodium gram vitamin soda carbs splenda pretzel msg,['diet'],"['diet plan', 'food']",0.8366030156612396,VH
+1223,sweet bar crunchy granola crunch yogurt combination raisin flake overly almond cranberry nutritious tooth sugary,['snack'],"['candy', 'bar']",0.6380640268325806,H
+1224,snack bar cooky sweet cereal fruit butter peanut nut cookie cracker almond apple crunchy oatmeal,['snacks'],"['snack', 'food item']",0.8274641036987305,VH
+1226,star fruit pretty juice orange gift soda mind instant espresso raspberry five decent especially substitute,['fruit'],['food'],0.6150050163269043,H
+1227,say feel pretty star worth money that's juice orange especially mind soda waste five instant,['juice'],"['drink', 'beverage']",0.7850293219089508,H
+1228,chicken meat vegetable purchasing hazelnut ingredient filler test steak we're vegetarian by-product duck grill real,['food'],"['meat', 'shop', 'vegetarian']",0.6105768879254659,H
+1229,ingredient natural corn free gluten chicken syrup feed organic pet wheat meat grain vet diet,['natural'],"['pet food', 'food', 'pet diet']",0.42100559671719867,M
+1232,last long gum hope date online dec original past shipment true expiration plan anywhere could,['expiration'],['delivery service'],0.6942825317382812,H
+1233,purchase happy see around away always can't able place ship date run never another throw,['unpredictable'],['delivery'],0.5777915716171265,M
+1234,say feel pretty star worth money that's juice especially orange mind soda waste five instant,['juice'],['history'],0.5031111240386963,M
+1235,sweet delicious bar milk cereal texture nut almond yummy cinnamon fill oatmeal granola strawberry chewy,['sweetness'],"['bar milk', 'breakfast cereal']",0.40532292425632477,M
+1240,jerky dog owner fence report fda yard associate apply chicken consumer mold consumption animal complaint,['complaint'],"['fda regulation', 'animal']",0.5083291232585907,M
+1241,oil ever popcorn spice jar pop season cooking olive salad christmas top everything sprinkle garlic,['seasoning'],['cooking'],0.6357035636901855,H
+1245,hair end clear felt thick heard wash opening scent job shampoo manufacturer conditioner major oily,['hair care'],"['hair', 'cismetics']",0.612420916557312,H
+1246,natural list contains ingredient raw berry book usa herb gross report root aloe health passion,['healthy living'],['health'],0.7105966210365295,H
+1250,local half grocery home deliver ask realize shelf trip door brought across picked reorder shopping,['convenience'],['grocery'],0.4199599623680115,M
+1252,organic natural real expensive syrup high artificial sweetener pleased flour leaf wheat corn chemical ingredient,['healthy'],"['food', 'ingredient']",0.442443311214447,M
+1253,different bottle shipping excellent available plastic everyone pleased delivery glass lemon sample seller hazelnut mint,['variety'],"['shipping', 'drink']",0.6734348833560944,H
+1254,drinking bitter brew machine mild ground espresso maker brewing filter enjoy caffeine aftertaste grind weak,['coffee'],"['coffee', 'drinking', 'coffee', 'espresso maker']",0.8202335983514786,VH
+1256,cooky cookie raspberry thin agree brownie oreo fudge gooey think soft crumbly overprice enough ruin,['dessert'],"['food', 'cooky', 'cookie']",0.7100918889045715,H
+1257,could cheese bake finally homemade fry slice spoon spread onion stand cardboard oven somewhere kraft,['bake'],['cooking'],0.8044288158416748,VH
+1259,sauce spicy apple noodle pepper heat kick chili lime restaurant hot wasabi bbq asian overly,['spicy'],"['food and spice', 'sauce', 'spicy', 'meal', 'restaurant', 'spice']",0.6846035371224085,H
+1261,pretty especially often set mind point instant five decent overall total roll via oat plenty,['oatmeal'],['especially'],0.3417980968952179,M
+1262,oil ever popcorn spice jar pop season cooking olive salad christmas everything search sprinkle top,['spice'],['oil'],0.732323169708252,H
+1265,excellent white yummy egg oatmeal gluten-free mill excite bob's frost call marshmallow lovely biscotti service,['delicious'],"['baking', 'cooking', 'food service']",0.5306660532951355,M
+1266,hot milk cold stomach diet substitute shake warm sensitive nasty soy dissolve upset pain dairy,['diet'],['stomach upset'],0.44582897424697876,M
+1267,ingredient corn chicken gluten syrup natural feed free pet meat wheat grain vet diet allergy,['nutrition'],"['culinary', 'food']",0.7456298172473907,H
+1270,cereal sell grain hop surprised unfortunately chewy truly nearly pancake raisin vendor understand appreciate book,['food'],['cooking'],0.7952097654342651,H
+1272,butter peanut apple orange aware poor jelly grape choke possibly risk formula belly and<br twenty,['food'],['food'],1.0,VH
+1276,quite expect wish bread recipe thing melt bake follow baking could stuck stir homemade way,['baking'],['baking'],1.000000238418579,VH
+1278,snack chip healthy tasty family they're cheese potato apple quick alternative salty lunch satisfy crave,['snack'],"['snack', 'snack', 'family healthy snack']",0.8943186601003011,VH
+1280,bar crunchy yummy sweet cinnamon granola crunch yogurt cereal raisin combination flake almond blueberry addict,['snack'],"['breakfast', 'diet', 'sweet']",0.7312767505645752,H
+1284,mix sauce easy hot cheese recipe bread spicy pepper cook chicken season cake salad meal,['recipe'],"['food', 'cooking', 'recipe', 'meal']",0.8007560819387436,VH
+1287,calorie protein fat low coconut diet fiber sodium gram vitamin soda carbs splenda pretzel msg,['diet'],"['nutrition', 'food', 'diet']",0.8734220266342163,VH
+1290,ingredient honey list label special contains contain raw test splenda prov berry process china site,['ingredients'],['honey'],0.6165764331817627,H
+1292,piece beef jerky bowl break pill turn picky training dont two gravy pocket animal cut,['snack'],['food'],0.7946438193321228,H
+1293,oil popcorn everything spice pop season cooking olive microwave garlic worst italian movie party mustard,['snacks'],"['popcorn cooking', 'recipe']",0.5653706192970276,M
+1294,green protein powder vitamin con body fiber mixed soy normal daily source contains prov shake,['green'],"['food', 'supplement', 'shake', 'nutrition', 'nutrient']",0.5817588865756989,M
+1295,pack variety com www http href fill stash pie grey earl gourmet twinings selection bigelow,['gourmet'],['pie'],0.670473039150238,H
+1296,right candy enjoy amount refresh summer quantity chunk unique think sweet ant plain outstanding antiox,['antioxidants'],['candy'],0.45224082469940186,M
+1297,pack variety roast com dark www http href keurig k-cups bold pod french wife k-cup,['coffee'],['keurig coffee'],0.8507913947105408,VH
+1301,stuff coconut far health tell difference cannot benefit believe please pure realize horrible many face,['health'],['stuff coconut'],0.4552462697029114,M
+1313,hair clear felt wash end thick scent shampoo conditioner manufacturer heard job opening oily major,['beauty'],"['hairdresser', 'hair shampoo', 'shampoo', 'hair']",0.5376143753528595,M
+1314,cheese bread bake homemade spread slice spoon toast fry onion direction sandwich oven follow usual,['baking'],['bake'],0.8365317583084106,VH
+1315,water coconut bpa glutamate monosodium msg mio glutamic bottle calorie electrolyte zico pineapple hydrolyze essentia,['drink'],['food'],0.5858635306358337,M
+1316,splenda sugar sucralose canin maltodextrin bottle chicken royal duck diabetic lose granulate safer packet new,['sugar substitute'],['diabetic'],0.42016440629959106,M
+1321,green protein powder meal vitamin mixed soy fiber body daily shake source contains prov splenda,['green'],"['green', 'protein']",0.7757056653499603,H
+1325,excellent white yummy egg oatmeal gluten-free excite mill frost bob's call lovely marshmallow biscotti scramble,['breakfast'],"['breakfast', 'menu']",0.8336832523345947,VH
+1327,year month friend husband gift ago weight lose already none two thrill start week could,['hope'],['event'],0.6689563989639282,H
+1329,calorie low fat protein weight sodium gram high fiber diet content carbs lose substitute carb,['diet'],"['nutritional content', 'diet', 'healthy food']",0.809148907661438,VH
+1331,review see disappointed reviewer call similar write say base read reading another label comment sure,['disappointment'],"['product review', 'book']",0.44030342996120453,M
+1333,piece beef everything jerky season break pill training pocket jack two tender crush nose garbage,['meat'],['training'],0.44528472423553467,M
+1334,favorite oil popcorn black spice pop season cooking olive salad chai top garlic lover sprinkle,['flavorful'],"['food', 'cooking']",0.6670121252536774,H
+1343,green vitamin mountain form teaspoon nutritional grass mineral hemp calcium smoothy spaghetti organic yeah smoothie,['healthy'],"['food', 'nutrition']",0.5269457399845123,M
+1344,organic natural real expensive syrup high artificial sweetener pleased flour wheat leaf corn chemical preservative,['healthy'],['preservation'],0.5952126383781433,M
+1345,vanilla french keurig k-cup aroma medium chai k-cups light morning blend matcha creamer hint starbucks,['coffee'],['tea'],0.7776450514793396,H
+1346,roast dark full rich flavorful extremely double pick count drank consistently selection odd delicate sumatra,['coffee'],['food'],0.5141437649726868,M
+1347,sweet bar crunchy granola crunch yogurt combination raisin flake overly almond nutritious cranberry sugary tooth,['snack'],"['sweet', 'nutrition']",0.7199744582176208,H
+1351,ingredient corn chicken gluten feed meat pet grain wheat vet syrup diet allergy wellness liver,['nutrition'],"['balance diet', 'feed']",0.7578780353069305,H
+1357,service hair seller customer contact email wine shampoo conditioner kit scalp prompt clam trap success,['grooming'],"['saloon hair', 'salon']",0.5264814347028732,M
+1359,bottle shipping plastic iced delivery glass lemon seller mint lime peach forward prime drinking count,['convenience'],"['shipping', 'buy beverage']",0.5424271523952484,M
+1360,piece beef jerky bowl turn break picky pill training dont two gravy eater cut bite,['snack'],['beef'],0.43453946709632874,M
+1365,bought free cooky butter peanut gluten cookie original sale shipping super mom addict reasonable prime,['convenience'],"['free', 'gluten free cooky']",0.6459263563156128,H
+1366,sauce spicy pepper apple noodle heat kick chili lime hot restaurant wasabi bbq asian tomato,[' spicy'],"['food', 'spice', 'spicy']",0.7758296132087708,H
+1368,bottle excellent available everyone plastic delivery glass pleased lemon mint offer sample travel clear lime,['bottled drinks'],"['excellent', 'bottle']",0.5391781032085419,M
+1370,favorite blend black bitter keurig k-cups wife aftertaste k-cup drinking decaf choice become caffeine licorice,['coffee'],"['coffee', 'drink', 'coffee']",0.8933432300885519,VH
+1371,think right calorie bean low fat candy amount high content sodium lower carbs sour plan,['diet'],['diet plan'],0.9037885069847107,VH
+1373,hair clear end felt thick wash scent heard job shampoo conditioner opening manufacturer oily major,['hair care'],"['hair', 'hair product']",0.8829397261142731,VH
+1376,ever smooth night exactly become soda cappuccino choose beer sweetness fabulous intense maker punch alcohol,['drinks'],['beverage'],0.9200875163078308,VH
+1377,snack healthy tasty cheese fill satisfy lunch crave healthier fit dip cheddar crunchy school yum,['cravings'],"['eat', 'snack']",0.5431475341320038,M
+1379,purchase happy company see ship website impressed call directly chance email mother send contact gold,['purchase'],['offer'],0.8545029163360596,VH
+1380,cooky cookie raspberry thin brownie agree oreo fudge think gooey crumbly texture package soft enough,['dessert'],"['cooky', 'dessert']",0.8329541087150574,VH
+1384,sweet bar crunchy granola yogurt raisin flake cranberry nutritious overly tooth blueberry bran cluster wafer,['snack'],['bar'],0.5601664185523987,M
+1386,fruit top nut plus fan huge cake hit mixed dessert microwave banana flavour car cashew,['dessert'],"['baking', 'dessert']",0.8451603353023529,VH
+1387,sauce spicy noodle heat kick chili restaurant lime wasabi pepper asian jasmine bbq taco soy,[' spicy'],"['food', 'bbq']",0.5141552835702896,M
+1389,coconut tell benefit wow face bpa jelly choke everyday america zico belly friend erably blah,['coconut'],['food'],0.45890992879867554,M
+1390,regular serve per red spicy pepper single option heat alternative kick fan fry overpower bbq,[' spicy'],['food'],0.5458222031593323,M
+1391,chip star potato corn kettle vinegar yellow blue addictive garden whole trap carrot think reason,['snacks'],['chip'],0.5432937145233154,M
+1394,bar cereal sweet nut yummy oatmeal granola chewy blueberry banana dessert crunch raisin tart crunchy,['dessert'],"['breakfast', 'food']",0.7505303919315338,H
+1396,put around popcorn real top place pop close bowl batch microwave cool liqu bottom another,['microwave'],['popcorn'],0.6151317358016968,H
+1398,sauce spicy noodle heat kick restaurant lime pepper hot chili asian wasabi ramen bbq jasmine,['spicy'],"['food', 'spicy food']",0.7296490371227264,H
+1399,star fruit pretty juice gift orange soda mind instant espresso raspberry decent five especially substitute,['fruit juice'],['beverage'],0.6422274708747864,H
+1401,cooky cookie mouth raspberry thin brownie fudge xylitol oreo bite creme think pan gooey soft,['dessert'],"['baking', 'cookie']",0.6991703510284424,H
+1405,hair clear wash scent shampoo conditioner heard oily manufacturer thick shiny scalp seem lead end,['beauty'],"['cosmetic', 'shampoo', 'hair wash', 'hair product', 'body care', 'hair', 'hair care', 'hair']",0.6008544489741325,H
+1406,morning light breakfast packet usually mild indiv easily pour convenient wrap liqu way every stevia,['convenience'],['breakfast'],0.480566143989563,M
+1408,free gluten salmon balance wet higher bpa turkey sol fussy cancer tomato know ocean allergy,['healthy'],['healthrelated'],0.7109353542327881,H
+1413,cooky cookie raspberry thin brownie agree oreo fudge think gooey texture package crumbly soft enough,['dessert'],"['food', 'cookie']",0.7321839034557343,H
+1414,green powder vitamin supplement form teaspoon tablespoon nutritional smoothie outstanding grass protein calcium hemp mineral,['superfood'],"['vitamin', 'supplement', 'beverage']",0.6182208855946859,H
+1418,especially mind often set instant starbucks total decent roll via five flower classic grape mocha,['coffee'],['starbucks'],0.8427362442016602,VH
+1419,review smell bad know i'll people disappointed since read think reviewer open agree base write,['disappointment'],['review'],0.6082402467727661,H
+1428,vanilla deal smooth brew several machine french maker shop sample espresso pot two house drinker,['espresso'],['drinker'],0.5672601461410522,M
+1432,oil salt help chew energy gum hour bone hair body toy olive skin blue magnesium,['nourishment'],"['health', 'effect']",0.649658739566803,H
+1433,salt bean dish ground sea kitchen gourmet table pork basic rind jamaica grinder marley additional,['cuisine'],['cooking'],0.8135980367660522,VH
+1434,salt bean dish cooking sea kitchen gourmet pork table basic grinder rind jamaica cook stew,['cuisine'],"['cooking', 'cooking']",0.8135979175567627,VH
+1437,bar cereal peanut nut butter gluten cracker almond cake granola fiber yogurt crunch flour raisin,['snacks'],"['cereal', 'cooky']",0.6107268333435059,H
+1439,bottle shipping grocery subscribe delivery prime charge wine cost gallon kit hazelnut mio walmart club,['grocery delivery'],['grocery'],0.9420315027236938,VH
+1440,hair clear felt wash end thick scent shampoo conditioner manufacturer job heard opening oily major,['hair care'],['hair'],0.799781084060669,H
+1444,market pasta difference noodle stomach brown hold cook sour mean soda coat upset nicely folk,['food'],['food'],1.0,VH
+1445,pet vet feed ingredient corn wellness chicken meat filler diet science liver kibble kitten switch,['nutrition'],['food'],0.7693726420402527,H
+1447,popcorn baby formula daughter pill he's pump kernel puff movie gerber popper earth's fussy pear,['baby'],"['baby care', 'babysitter', 'pop corn']",0.5860164761543274,M
+1450,end hair clear felt heard thick opening wash scent job shampoo major manufacturer conditioner oily,['haircare'],"['hair product', 'shampoo']",0.8518594205379486,VH
+1453,sauce rice meal dish soy thick dinner cooked sprinkle restaurant cook thai pea cooking brown,['thai'],"['food', 'meal']",0.44649800658226013,M
+1455,easy fruit top family plus nut apple cake extra hit caramel mixed mess banana travel,['travel'],['sweet and cake'],0.39888817071914673,M
+1457,free gluten salmon balance wet turkey diet kitten natural ocean fussy since limit grain important,['healthy eating'],['salmon'],0.31394094228744507,M
+1458,green powder vitamin supplement form teaspoon tablespoon nutritional organic grass smoothie protein hemp mineral outstanding,['healthy'],"['nutritional', 'vitamin', 'medicine']",0.522147536277771,M
+1459,star fruit pretty juice gift orange mind soda instant espresso five substitute raspberry decent especially,['fruit'],['beverage'],0.6625760793685913,H
+1461,package fresh receive absolutely disappointed fast white super return customer service terrible costco satisfied horrible,['disappointment'],"['customer review', 'shopping', 'service']",0.43275485436121625,M
+1462,nice salt excellent cracker please sea surprise table unique wine pork kit describe puff graham,['snacks'],['food'],0.7841411828994751,H
+1464,vanilla bean honey orange iced caffeine indiv soda lemon refresh stash stevia mint licorice beverage,['flavor'],"['drink', 'ingredient']",0.7515443563461304,H
+1465,drinking mild aftertaste espresso weird brewing latte sip might guest beverage enjoy appeal however way,['coffee'],['espresso'],0.6816355586051941,H
+1467,review smell bad know i'll since people disappointed think read reviewer open seal though agree,['disappointment'],['review'],0.6082402467727661,H
+1471,put thought anything something nothing else stick course house cover boil burn air sick min,['health'],['verb'],0.5496492385864258,M
+1476,butter peanut apple orange aware jelly poor grape choke formula risk belly possibly watch and<br,['healthy eating'],['food'],0.635685384273529,H
+1482,bought still enough arrive amaze jar pretty fine could everyone think another tin tree crack,['surprise'],['deliver pack'],0.40530869364738464,M
+1483,hair end clear felt thick wash heard scent opening job shampoo conditioner manufacturer major oily,['grooming'],"['hair care', 'hair']",0.7434430122375488,H
+1490,case salty live suggest sour hooked crispy cheddar tangy garbage heaven ahead regret smallest mayo,['flavor'],['food dip'],0.6118509769439697,H
+1495,delicious small size dry hard large smaller surprised larger perfect liver freeze locally six tire,['food'],['fridge'],0.5738487243652344,M
+1496,healthy tasty snack alternative satisfy lunch healthier touch usual dip yum late hungry bill typical,['snack'],"['food', 'healthy snack']",0.7756580710411072,H
+1497,package item receive rice fresh disappointed white fast soup absolutely anyone wrong noodle awesome return,['disappointment'],['deliver item'],0.4381985664367676,M
+1501,set stash packed grey earl tuna dent beautiful staple twinings sardine bigelow bergamot cola buyer,['canopy'],['camp'],0.5847654342651367,M
+1502,green protein powder meal vitamin mixed soy pouch shake contains fiber nutrition matcha form teaspoon,['nutrition'],['nutritional value'],0.8905584812164307,VH
+1505,health normal fact lower particular person trouble consume crisp gummy less bear issue adult birthday,['health'],"['normal', 'diet']",0.6435386836528778,H
+1508,chicken meat vegetable purchasing test hazelnut filler we're steak exception vegetarian completely grill breast by-product,['meat'],"['food', 'meat and food']",0.7746768295764923,H
+1509,magnesium diamond oil blue bowel rda body olive blood energy tolerance source nutrient allowance dietary,['nutrition'],['diet'],0.8508486747741699,VH
+1511,chip potato vinegar kettle corn garden addictive tortilla trap blue starch bbq lucky think salt,['snacks'],"['bbq', 'chip']",0.5304291248321533,M
+1512,absolutely white fast super return service customer terrible satisfied horrible replace process experience sticky lol,['customer service'],['sticky'],0.342494398355484,M
+1513,morning usually light breakfast packet easily mild indiv pour convenient liqu wrap stevia ual afternoon,['convenience'],['breakfast'],0.480566143989563,M
+1518,bar sweet crunchy yummy cinnamon granola crunch yogurt raisin combination cereal flake almond blueberry addict,['snack'],"['crunchy', 'desert beer', 'breakfast bowl']",0.5941258867581686,M
+1524,sweet delicious bar milk cereal texture nut almond yummy cinnamon oatmeal fill granola strawberry chewy,['sweetness'],"['candy bar', 'foood', 'flavour']",0.6681302189826965,H
+1525,butter peanut apple orange jelly grape choke aware poor fact formula belly watch risk transition,['food'],['food'],1.0,VH
+1528,local grocery home half deliver ask realize shelf trip door brought across picked reorder shopping,['grocery'],"['shopping', 'shopping']",0.757597804069519,H
+1529,keep container easily hold melt shape mess stuck together room bigger worry separate expectation dle,['adhesive'],['storage'],0.5865697264671326,M
+1530,bottle glass lemon mint prov plastic peach sparkle mio tip squirt half tap iced grab,['drink'],"['plastic', 'water', 'detox', 'lemon']",0.6975491046905518,H
+1531,drinking aftertaste mild espresso might weird beverage sip latte brewing guest appeal however sound mellow,['coffee'],"['drink', 'coffee shop']",0.7787876129150391,H
+1533,item deal glad become shop anymore near disappoint costco buck third donut supply sampler kill,['disappointment'],['shopping'],0.3720574378967285,M
+1536,green bean vanilla wonderful drinking black honey morning orange ice cold aftertaste iced indiv light,['morning drink'],"['cold fruit drink', 'healt drink', 'drink']",0.5112570524215698,M
+1540,sweet bar crunchy granola crunch yogurt combination raisin flake overly almond cranberry nutritious sugary tooth,['snack'],"['healthy dessert', 'appetizer', 'dessert']",0.7260220646858215,H
+1544,oil spice olive cooking christmas garlic worst smoke italian sister recipe regularly virgin canola extra,['cooking'],['cooking'],1.0000001192092896,VH
+1549,review know smell bad i'll people think disappointed since read reviewer open write reason base,['disappointment'],['book'],0.48128849267959595,M
+1551,case salty live sour suggest hooked crispy cheddar tangy less heaven since smallest regret mayo,['flavor'],['sour'],0.5089617967605591,M
+1557,bought buying local grocery cost able way carry cheaper stop deliver supermarket shelf trip office,['convenience'],['shopping'],0.5080380439758301,M
+1558,sweet bar crunchy granola crunch yogurt raisin combination snack flake cereal almond cranberry nutritious tooth,['snack'],"['breakfast', 'healthy snack', 'bar', 'crunchy snack at bar with drink', 'cereal', 'snack']",0.7222410639127096,H
+1559,vanilla deal smooth brew several machine french maker shop sample pot espresso house two drinker,['coffee'],"['cafe', 'coffee']",0.8426847159862518,VH
+1560,oil spice cooking olive christmas garlic worst smoke regularly italian sister virgin shame canola hydrogenate,['cooking'],['cooking'],1.0000001192092896,VH
+1561,wish toy larger picky ball figure fun locally play eater busy beware lick spoil terrier,['playtime'],['dog toy'],0.3897404670715332,M
+1563,oil spice olive cooking christmas garlic worst smoke italian sister recipe virgin extra canola dress,['cooking'],"['seasoning', 'cooking', 'cook']",0.8513308167457581,VH
+1564,calorie protein low amount fat sodium weight gram carbs meal fiber carb msg daily diabetic,['diet'],['diaberic diet'],0.8373959064483643,VH
+1565,mix cream ice strawberry pour pancake waffle pomegranate muffin recipe frozen grainy lollipop margarita fluffy,['dessert'],"['sweet', 'drink', 'food recipe']",0.628026564915975,H
+1566,butter peanut apple orange jelly grape choke aware poor fact formula belly watch risk large,['health'],['medical risk'],0.588494598865509,M
+1568,sweet delicious bar milk cereal texture nut almond yummy cinnamon oatmeal fill granola chewy caramel,['sweetness'],"['snack', 'healthy snack', 'dessert']",0.6864758133888245,H
+1569,organic natural real expensive high syrup artificial wheat sweetener pleased flour corn chemical care maple,['natural'],"['food', 'sugar']",0.49287644028663635,M
+1571,favorite blend black bitter perfect k-cups enough wife drinking keurig k-cup aftertaste decaf choice caffeine,['coffee'],['coffee'],1.0,VH
+1579,per let must choice simply sit seed fish totally age vegan wine kit sesame mushroom,['healthy'],['vegan'],0.46580347418785095,M
+1583,every month friend family week gift weight lose ago grow two plant year already several,['growth'],['frend history'],0.5117209553718567,M
+1587,quality chicken meat vegetable purchasing ingredient salmon hazelnut pricey base tuna turkey filler steak actually,['food'],['food'],1.0,VH
+1590,blend morning usually light brew breakfast packet mild indiv pour convenient wrap stevia brewing ual,['coffee'],"['breakfast', 'breakfwst']",0.5429841876029968,M
+1599,almond body blue magnesium diamond blood reminds cause bowel rda nutrient approximately level diarrhea source,['nutrition'],"['nutrition', 'almond', 'patient']",0.6761398017406464,H
+1600,ingredient organic quality natural real corn meat syrup list label grain artificial pet ginger expensive,['healthy'],['ingredient'],0.42108941078186035,M
+1602,feed change switch diet wellness vet crazy eats pet formula year kibble science old puppy,['nutrition'],['diet'],0.8508486747741699,VH
+1603,different hot many available others salad name creamy choose dress way curry paste although table,['dressing'],['cooking'],0.6114206910133362,H
+1605,purchase happy around arrive company away see ship date place throw sent shipping condition another,['purchase'],"['commerce', 'online shopping review']",0.6067176163196564,H
+1607,ever cereal sell unfortunately pancake truly vendor stale never appreciate think threw fell understand muffin,['stale'],['sell'],0.5524915456771851,M
+1609,receive variety several may orange new state point fun within pumpkin complaint animal figure easier,['diversity'],['complaint'],0.5892213582992554,M
+1610,case salty live suggest sour hooked crispy cheddar tangy garbage heaven ahead regret mayo neighborhood,['flavor'],['cheddar'],0.6378118395805359,H
+1612,cooky rice soup pasta season noodle cookie tomato tuna fudge hol wasabi bubble steak pea,['comfort foods'],"['restsurant', 'food', 'meal', 'cooking', 'rice', 'cooking ingredient', 'kitchen', 'food']",0.5932879969477654,M
+1619,chew pod bone pound toy mouth puppy play last creamer around minute rawh senseo two,['playtime'],['chew'],0.5974567532539368,M
+1620,bottle local shipping excellent grocery cost deal available cheaper save fast carry pay per online,['convenience'],"['pay per online', 'e commerce']",0.5053804814815521,M
+1623,rice meal ginger content contain picky dinner sprinkle label eater cooked fairly thai snap reorder,['thai rice meal'],['dinner'],0.5053818821907043,M
+1625,protein coconut fiber gram carbs splenda fat msg bpa g<br pineapple glutamate monosodium cholesterol hemp,['healthy'],['protein'],0.46989887952804565,M
+1628,value teeth difficult msg pea bone spent rawh jasmine glutamate what's monosodium europe inexpensive potential,['nutrition'],['teeth'],0.524064302444458,M
+1629,mix cream ice pour strawberry pancake baking waffle muffin pomegranate pan stir frozen whip grainy,['dessert'],"['ice cream', 'mix']",0.6130340099334717,H
+1630,piece sell deal market glad online break hop teeth unfortunately surprised flour bulk whole stale,['market'],"['sell', 'shopping']",0.7535970211029053,H
+1633,right calorie bean low amount fat candy high light content sodium small mango carbs carb,['healthy'],"['calorie', 'nutrition']",0.5700735449790955,M
+1634,set stash grey packed earl tuna dent staple twinings sardine bergamot bigelow cola buyer schedule,['staple'],['camp'],0.6010247468948364,H
+1635,vanilla iced indiv caffeine soda orange stevia lemon mango beverage ually flower herbal illy lipton,['beverage'],['drink and food'],0.7241718769073486,H
+1637,top family nut extra plus apple mixed cake egg hit raspberry mess banana travel brownie,['dessert'],['food'],0.7563474178314209,H
+1638,quality organic expensive real worth leaf care pleased fact high matter premium loose preservative likely,['premium'],['organic'],0.6019573211669922,H
+1639,work package receive surprised sample description future careful party damage pleasantly chef co-worker correct fault,['work'],"['shipping', 'job']",0.7671985924243927,H
+1644,natural real expensive fact syrup wheat leaf care artificial sweetener pleased flour chemical loose matter,['healthy'],['syrup'],0.4200320243835449,M
+1646,thing quite expect probably i'd seem n't either wish stock certainly stir though kind end,['uncertainty'],['conversation'],0.5622533559799194,M
+1658,stuff save hand market wife subscribe drop addict today square enough delighted dad grove haribo,['entertainment'],['market'],0.619529128074646,H
+1661,mix cream ice pour strawberry stir pancake waffle muffin pomegranate frozen whip grainy instead lollipop,['dessert'],['cooking'],0.6308876872062683,H
+1664,bottle hazelnut delivery cappuccino peach wine squeeze kit cost sparkle selection mio cola carbonate squirt,['drinks'],"['food', 'drink']",0.774358332157135,H
+1665,piece sell deal market glad online break hop teeth unfortunately surprised packaging flour bulk whole,['commerce'],"['sell', 'sale of good']",0.7179213166236877,H
+1666,sweet bar perfect milk texture yummy soft cinnamon plain granola strawberry yogurt blueberry combination addict,['sweetness'],"['drink', 'snack', 'sweet food']",0.7272875905036926,H
+1669,chicken meat vegetable purchasing test hazelnut we're vegetarian steak exception real grill breast gloria rub,['food'],"['food', 'eat']",0.9129236936569214,VH
+1672,oil popcorn spice pop olive christmas worst garlic italian kernel cooking regularly smoke sister popper,['popcorn'],['cooking'],0.43990200757980347,M
+1674,purchase see happy company call ship website sent send impressed chance check contact directly email,['purchase'],"['send', 'company job']",0.6751618683338165,H
+1675,hot milk cold stomach diet substitute shake warm sensitive nasty dissolve soy upset pain dairy,['digestion'],"['milk', 'food']",0.7225174307823181,H
+1677,bit sauce regular serve per save hot red spicy pepper ounce subscribe heat option chili,['spicy'],"['hot sauce', 'spice']",0.7028860449790955,H
+1678,texture actually cut wheat pasta version search miss office oat biscuit seriously cook minute winner,['food'],['taxture'],0.37128737568855286,M
+1685,less buying regular definitely however cheaper serve red alternative ounce option lack alone twice compare,['alternative'],['buying'],0.6001794934272766,H
+1688,put around real top popcorn place bowl close pop batch microwave cool movie another liqu,['popcorn'],"['cinema', 'see a movie', 'pop corn']",0.6160167455673218,H
+1692,chip star potato salty corn veggie reason vinegar kettle rating think still whole addictive garden,['snack'],"['food', 'ingredient']",0.6778082549571991,H
+1693,bought free cooky shipping butter peanut gluten cookie original sale melt mom reasonable prime party,['sale'],['cookie sale'],0.550175666809082,M
+1694,put around top real popcorn place pop close bowl batch microwave movie liqu cool another,['popcorn'],['pop corn'],0.7128407955169678,H
+1695,rice meal bowl ginger content picky label brown dinner sprinkle eater fairly cooked thai contain,['thai rice bowl'],['recipe'],0.46626347303390503,M
+1696,blend morning breakfast packet indiv mild wrap stevia ual liqu pour afternoon convenient ually brew,['convenience'],['breakfast'],0.480566143989563,M
+1699,sauce cheese bread salad flour chili stir garlic pancake dip baking dress pork pizza mill,['food'],"['food', 'bread']",0.8582875728607178,VH
+1701,pod pound caramel machine maker pet filter safe begin senseo drip target perfectly two pig,['caramelizer'],['coffee maker'],0.5306724309921265,M
+1708,every month week family friend gift two ago lose already weight grow life plant none,['growth'],['month'],0.5253978371620178,M
+1711,chicken meat vegetable purchasing hazelnut ingredient filler test we're steak vegetarian by-product duck know grill,['food'],"['food', 'chicken']",0.7735699117183685,H
+1713,worth packet waste splenda world horrible whenever direction follow sweeter every sucralose life town lemonade,['sugar'],['world'],0.5666425228118896,M
+1716,rice season tomato tuna pea steak fudge hol mustard wasabi usa bubble oreo creme trader,['food'],"['kitchen', 'food']",0.8464285731315613,VH
+1720,away dark full roast rich flavorful extremely rest double drinker steep world magic drank selection,['coffee'],['coffee'],1.0,VH
+1721,bar crunchy yummy cinnamon sweet granola crunch yogurt cereal raisin combination flake blueberry almond addict,[' crunchy'],"['breakfast', 'cereal', 'cinnamon']",0.5558722615242004,M
+1723,bar butter peanut nut almond granola yogurt oat raisin cashew quaker walnut bran graham flax,['snacks'],"['breakfast', 'oat', 'nut bar']",0.6219454010327657,H
+1725,oil popcorn spice olive pop christmas worst garlic italian cooking kernel smoke coconut sister dress,['food'],['food'],1.0,VH
+1726,vanilla iced indiv caffeine espresso stevia mango fuel ually flower herbal jet illy lipton jasmine,['coffee'],"['lipton and stevia flavour', 'drinking']",0.6365674734115601,H
+1728,cooky butter free peanut gluten cookie sale we've reasonable walmart newman's allergy jam raisin consistency,['cookie'],"['grocery shopping', 'cookie']",0.76828932762146,H
+1729,chicken meat vegetable purchasing test hazelnut we're vegetarian steak exception grill breast concern gloria rub,['food'],['food'],1.0,VH
+1732,strong prefer bold orange ginger medium shake weak cherry stronger subtle intense bitterness slight twice,['spicy'],['cooking'],0.5606808066368103,M
+1738,calorie low fat protein weight sodium high fiber gram diet content carbs lose substitute carb,['healthy diet'],"['low calorie food', 'weight']",0.4766126126050949,M
+1739,sauce spicy noodle heat kick chili restaurant pepper lime wasabi asian hot soy taco ramen,['spicy'],"['food', 'cuisine']",0.590677410364151,M
+1752,hot packet cream ice machine leaf cold mild iced indiv pot cocoa breakfast pour convenient,['convenience'],['drink'],0.6431334018707275,H
+1753,morning light breakfast packet mild indiv pour convenient wrap easily usually liqu stevia way ual,['convenience'],['breakfast'],0.480566143989563,M
+1755,packet hot ice cream machine leaf breakfast morning cold mild iced indiv pot cocoa pour,['cold'],['coffee related'],0.3756181001663208,M
+1757,need result clean cheap basically breath greenies major pet tummy concerned trust finicky dental space,['eco-friendly'],['clean'],0.7486538887023926,H
+1761,rice soup chicken gum noodle cooked pork season cook steak mustard curry bubble usa broth,['soup'],"['cooking', 'cooking']",0.7342079877853394,H
+1763,mix sauce easy cheese recipe bread spicy pepper cook season cake chicken meal salad bake,['recipe'],"['food', 'cooking', 'cooking']",0.7868643403053284,H
+1765,cooky cookie mouth raspberry thin brownie fudge xylitol bite oreo creme think pan gooey soft,['dessert'],['cookie'],0.7080201506614685,H
+1766,item arrive soup candy gift rice company pasta sell noodle awesome white stock ever customer,['company'],['shopping grocery'],0.374995619058609,M
+1769,bottle excellent available plastic everyone pleased delivery glass offer lemon mint sample travel clear lime,['travel'],['bottle'],0.7185819745063782,H
+1773,market pasta difference stomach brown mean hold sour soda cook coat upset folk nicely finger,['digestion'],"['pasta preparation', 'food']",0.6578656435012817,H
+1776,year old soup carry ago stock area longer prepare broth seafood college tax miso chowder,['soup'],['soup'],1.0000001192092896,VH
+1781,hot milk start n't cold stomach substitute warm shake soy nasty dissolve upset sensitive pain,['comfort'],['drink'],0.6232013702392578,H
+1784,ingredient natural list special contains raw berry china label usa book herb prov gross site,['natural'],"['cooking', 'cooking recipie']",0.3324330151081085,M
+1785,son skin okay mom gas truffle winter strength station since grown english workout suck slow,['health'],['family'],0.5546464323997498,M
+1789,high syrup artificial sweetener chemical sweeten maple extract agave blueberry fructose corn claim diabetic fake,['sweetener'],"['diabet', 'sugar', 'maple sirup']",0.5678523778915405,M
+1790,green powder vitamin form supplement teaspoon tablespoon protein nutritional load outstanding smoothie grass calcium mineral,['superfood'],"['mineral', 'nutrition']",0.5390502214431763,M
+1791,almond body blue magnesium diamond blood cause reminds bowel rda nutrient level approximately diarrhea source,['health'],['science'],0.5767031908035278,M
+1794,salt bean dish sea kitchen gourmet pork ground rind basic grinder jamaica marley cooking shaker,['cuisine'],"['food', 'cooking']",0.8235337734222412,VH
+1799,sauce serve spicy pepper hot subscribe heat save chili fry sour thai greasy asian sugar-free,['spicy'],"['food', 'sauce', 'tomyum']",0.5609500805536906,M
+1803,natural list ingredient contains raw berry usa book herb gross health report aloe fruit root,['healthy living'],"['ingredient', 'food', 'ingredient list']",0.3715991775194804,M
+1805,snack far fruit cake rest bite banana moist reason bacon broke apart however consistency inch,['snacking'],"['food', 'snack']",0.8734824657440186,VH
+1807,right calorie bean low amount fat candy high light content sodium weight lower carbs mango,['healthy'],"['health', 'diet', 'diet', 'food ingredient']",0.5114754140377045,M
+1810,sauce serve rice dish meal sprinkle content soy cooked contain dinner restaurant thai ginger brown,['thai cuisine'],"['food', 'fry rice']",0.5399222075939178,M
+1811,sweet bar milk cereal texture yummy cinnamon kind granola strawberry soft crunchy blueberry crunch whole,['cereal'],['food'],0.553132176399231,M
+1813,snack bar cooky cereal butter fruit peanut nut cookie cracker almond oatmeal granola strawberry crunch,['snack'],"['snack', 'snack', 'food and drink']",0.9187480211257935,VH
+1815,cat feed meat ingredient pet chicken wellness vet diet salmon dry corn switch kibble filler,['pet food'],"['cat', 'cat supply']",0.3691793531179428,M
+1816,soup rice candy pasta thanks noodle service customer vendor tuna gift contact country hol pea,['food'],['vendor'],0.6296982765197754,H
+1817,quite bread recipe wish melt stock baking stir certainly homemade bake awful stuck gluten-free moist,['baking'],"['kitchen', 'cooking', 'cook']",0.7935601870218912,H
+1819,thing quite expect probably i'd n't rather certainly either stir enough often awful seem though,['uncertainty'],"['adverb', 'quite']",0.6183657050132751,H
+1821,per let must choice seed fish totally vegan age sit wine jelly simply kit mushroom,['veganism'],['diet'],0.5655527710914612,M
+1822,right enjoy bean candy amount quick refresh cold sweetness mango beverage summer quantity warm grind,['summer'],['food'],0.4199953079223633,M
+1827,quality organic expensive real leaf pleased worth care high fact preservative matter premium loose likely,['premium'],['quality'],0.8252134323120117,VH
+1833,vanilla french aroma medium k-cup matcha roast creamer hint bitterness caribou though light wolfgang keurig,['coffee'],"['drink', 'matcha']",0.6013071537017822,H
+1838,cooky butter peanut gluten cookie sale we've reasonable newman's walmart consistency celiac jam blow pamela's,['food'],['cookie'],0.5629727840423584,M
+1840,oil salt help chew energy gum bone hair body toy olive skin blue night magnesium,['nourishment'],['body'],0.7057504653930664,H
+1844,cookie cooky microwave package chewy chocolate soft annie newton garbage bad toilet plastic bowl put,[' microwave'],"['kitchen', 'food']",0.6665242910385132,H
+1846,star potato corn often salty veggie reason kettle addictive garden rating carrot trap earth's sesame,['vegetables'],"['vegetable', 'fresh food']",0.8030122816562653,VH
+1849,sell cereal chewy pancake hop truly unfortunately vendor surprised raisin gooey muffin grain bran dough,['food'],['sell'],0.5543646812438965,M
+1850,snack chip healthy tasty family they're cheese apple potato alternative salty lunch satisfy crave enjoy,['snacking'],['healthy eat'],0.6518213748931885,H
+1851,snack chip healthy tasty family cheese they're apple alternative potato salty lunch enjoy crave satisfy,['snack'],"['snack', 'snack']",1.0000001192092896,VH
+1852,syrup high sometimes artificial sweetener chemical sweeten splenda stevia maple corn agave extract claim fructose,['sweetener'],"['food', 'sugar', 'syrup']",0.6809708476066589,H
+1854,green protein powder vitamin meal mixed soy pouch shake contains fiber nutrition matcha form teaspoon,['superfood'],"['nutrition', 'supplement']",0.5949544906616211,M
+1856,milk n't diet stomach start soy substitute shake something sensitive without nasty upset dissolve zero,['digestion'],['drink'],0.7655398845672607,H
+1862,natural list ingredient contains raw berry usa book herb gross report health aloe root passion,['healthy'],"['nature', 'nutritional health', 'health']",0.6082326173782349,H
+1863,roast com www http href keurig bold pod k-cup k-cups grey brewer earl blend gelatin,['coffee'],['coffee'],1.0,VH
+1864,always case salty live awesome suggest sour hooked tuna since cheddar crispy pantry tangy heaven,['savory'],['taste'],0.8271888494491577,VH
+1867,perfect easy shipping fast con quick delivery seller ering pro though tad reach reasonably meal,['convenience'],"['delivery', 'fast shipping', 'deliver', 'order', 'shipping']",0.5873258829116821,M
+1875,year two every size old last month start long week several keep baby friend three,['growth'],['amount'],0.6518235206604004,H
+1876,cereal sell unfortunately truly stale vendor appreciate understand allow fell threw fail longer basis pronounce,['stale'],['sale'],0.49423590302467346,M
+1879,purchase happy company ship see website impressed directly email mother chance advertised way call around,['marketing'],['e commerce'],0.6630117297172546,H
+1880,item deal glad shop anymore become donut many supply disappoint sampler costco kill two retail,['retail'],['deal'],0.5604721903800964,M
+1882,sweet bar milk cereal texture yummy cinnamon granola strawberry crunchy soft blueberry kind almond yogurt,['sweetness'],"['food', 'snack']",0.5962807685136795,M
+1883,ingredient organic natural real expensive corn syrup list label grain pet artificial ginger wheat contain,['natural'],"['ingredient', 'food', 'natural supplement']",0.6017701427141825,H
+1884,fruit top plus nut fan cake hit mixed banana microwave dessert big flavour car etc,['dessert'],"['fruit cake', 'cooking']",0.6728497445583344,H
+1885,chicken meat vegetable purchasing test hazelnut we're steak vegetarian real grill exception gloria rub enjoy,['food'],"['food', 'cooking']",0.8976049423217773,VH
+1890,bottle shipping excellent local grocery cost available cheaper carry pay ship per delivery subscribe online,['grocery delivery'],"['store', 'bottle shipping']",0.5940297544002533,M
+1897,chip snack healthy tasty excellent lunch crave healthier fiber salty dip satisfy alternative crunch cheddar,['snack'],"['snack', 'food', 'healthy snack alternative']",0.8494628071784973,VH
+1900,back wonderful new home change amaze next absolutely issue thank left wait difficult office fantastic,['transformation'],['design'],0.7885740995407104,H
+1902,green protein powder blue body vitamin soy daily magnesium source fiber shake blood almond nutrition,['nutrition'],"['nutrition', 'food', 'gym', 'vegetable']",0.7285624742507935,H
+1906,texture cut wheat decaf miss oat biscuit party seriously country quaker winner absolute toss shred,['grain'],"['kitchen', 'cooking']",0.5224751830101013,M
+1908,protein coconut fiber gram carbs splenda fat msg bpa yeast g<br pineapple glutamate monosodium cholesterol,['healthy'],['protein source'],0.31343597173690796,M
+1914,mix cream ice strawberry pour pancake waffle muffin recipe pomegranate frozen grainy lollipop margarita fluffy,['dessert'],"['sweet', 'recipe', 'sweet food']",0.6500669519106547,H
+1916,sweet delicious bar milk cereal texture nut almond yummy cinnamon fill granola strawberry chewy caramel,['sweetness'],"['candy', 'sweet']",0.8195706307888031,VH
+1917,calorie serve low fat protein coconut diet juice per powder health fiber weight sodium gram,['healthy diet'],"['calorie', 'food', 'diet']",0.5404221415519714,M
+1918,package shipping plastic offer delivery four glass lemon seal broken seller mint happen peach forward,['offer'],['good'],0.7042582035064697,H
+1919,dry feel pasta brown stomach cook pill extremely liver dont tiny sensitive effect guy freeze,['gastrointestinal'],['reactionsensitivity'],0.503178596496582,M
+1923,star pretty fruit juice cut orange mind soda instant espresso exactly raspberry decent five substitute,['drink'],['beverage'],0.8877449631690979,VH
+1925,arrive second gum hope online date original past already soon finish today broken stale plan,['anticipation'],['date'],0.6927955150604248,H
+1931,package item receive rice fresh soup disappointed absolutely white fast anyone wrong noodle awesome return,['disappointment'],['delivery'],0.5509719252586365,M
+1934,dog treat chew piece size small take bone toy seem teeth keep smell two last,['treats'],['dog food'],0.48531919717788696,M
+1935,easy fruit top family plus nut apple cake hit caramel mixed egg extra banana mess,['dessert'],"['baker', 'food', 'fruit bar', 'breakfast', 'eatable', 'recipe']",0.6902852555116018,H
+1937,bar yummy cinnamon crunchy granola crunch yogurt blueberry combination addict chewy tart raisin almond flake,['snack'],['yummy'],0.6901066899299622,H
+1944,sauce serve regular per save bit hot red spicy pepper ounce subscribe heat option single,['spicy sauce'],['serve'],0.4911167621612549,M
+1948,organic natural real expensive syrup high artificial sweetener pleased flour wheat corn leaf chemical ingredient,['healthy'],"['list of ingredient', 'food', 'drink', 'ingredient', 'chemical sweetener']",0.43707037568092344,M
+1950,feed change vet pet switch diet wellness crazy eats research kibble formula science human coat,['nutrition'],['health'],0.7880412936210632,H
+1951,packet hot cream ice machine leaf cold mild iced indiv breakfast pot cocoa pour morning,['coffee'],"['breakfast', 'coffee']",0.8274641335010529,VH
+1952,vanilla chew pod bone pound toy mouth puppy play creamer rawh senseo around finally minute,['playtime'],['puppy'],0.41841909289360046,M
+1953,diet feed change pet vet switch formula wellness grain research kibble allergy eats science week,['nutrition'],"['diet', 'health']",0.819444864988327,VH
+1954,strong highly flavorful twice cherry stronger slight wake san chamomile clam pricing weaker shake bay,['flavor'],['shake'],0.6026732921600342,H
+1956,think review smell say bad pretty people know though i'll may see read seem n't,['opinion'],['smell'],0.7247323989868164,H
+1957,snack bar cooky cereal butter peanut fruit nut cookie cracker almond oatmeal granola strawberry crunch,['snacks'],"['healthy snack', 'fruit bar', 'snack']",0.8004836042722067,VH
+1959,coconut help difference everyday benefit cannot pleasant tell told improve health munch many skin along,['coconut'],"['coconut benefit', 'coconut']",0.9374300837516785,VH
+1965,peanut cookie gum reasonable prime cooky fudge walmart bubble celiac birthday oreo gooey absolute saver,['treats'],['cookie'],0.7516707181930542,H
+1970,size baby quickly daughter thanks night start work formula month since child pump move bed,['growth'],['baby'],0.5571491122245789,M
+1981,bottle usually sale glass lemon delivery offer mint broken peach forward plastic half iced mio,['lemonade'],['supeemarket'],0.5555122494697571,M
+1983,free packaging value big con available hair shipping difficult damage prime clear ering dent search,['convenience'],"['shipping', 'produce', 'shopping']",0.5611399213473002,M
+1984,package fresh item receive rice arrive gift disappointed white fast noodle awesome packaging anyone return,['delivery'],"['delivery', 'delivery']",1.0,VH
+1986,year month friend husband gift ago weight lose already none thrill originally loss gain quit,['change'],"['gift', 'hustband']",0.7097268998622894,H
+1989,vanilla french aroma medium k-cup hint matcha bitterness creamer burnt caribou wolfgang press match puck,['coffee'],['cofee add'],0.5542396903038025,M
+1990,dark full away roast rich flavorful extremely double drinker steep magic drank half selection odd,['coffee'],['drink'],0.6800295114517212,H
+1993,butter peanut apple orange jelly grape aware poor choke formula fact belly watch risk transition,['nutrition'],['food'],0.7693726420402527,H
+1998,cheese bread bake homemade spread slice toast spoon onion put fry sandwich oven direction could,['baking'],"['baking', 'food']",0.8046984076499939,VH
+1999,chip sauce www http href com cheese potato chili garlic vinegar dip pie bbq kettle,['condiments'],"['food', 'chip']",0.714208334684372,H
+2000,free packaging value big hair shipping con difficult damage prime clear ering dent available search,['convenience'],['shopping'],0.5080380439758301,M
+2006,per let must choice seed fish totally simply sit age vegan wine kit sesame sprout,['healthy'],['selection'],0.42802223563194275,M
+2010,snack healthy tasty excellent fiber lunch healthier satisfy enjoy something dip yum crave grain without,['healthy snack'],"['food', 'eat', 'snack']",0.6805310448010763,H
+2012,recipe bread flour baking simple traditional toast sandwich pizza mustard member crust celiac disease rise,[' baking'],"['food', 'bread']",0.6905225813388824,H
+2016,review see disappointed reviewer call similar read base write label reading another say comment sure,['disappointment'],"['customer review', 'read', 'reporter']",0.4640260537465413,M
+2018,snack chip healthy tasty family they're cheese potato apple alternative quick meal salty satisfy lunch,['snacking'],"['food', 'food term', 'snack', 'snack chip']",0.8287898451089859,VH
+2021,sweet delicious bar milk cereal texture nut almond yummy fill cinnamon oatmeal granola strawberry breakfast,['satisfying'],"['breakfast', 'milk and cereal']",0.32593493163585663,M
+2026,cheese bread chili garlic sauce thai pan pizza curry crust whip dip chef boil rub,['spicy'],"['food', 'cooking', 'cooking']",0.5557279586791992,M
+2028,hair thick clear heard wash head scent shampoo conditioner oily scalp apply manufacturer shiny shower,['grooming'],['hair'],0.725752592086792,H
+2030,quality organic expensive real leaf worth pleased care high fact matter preservative premium loose likely,['premium'],"['organic food', 'quality']",0.6224112212657928,H
+2032,perfect fresh packaging honey cracker plastic fit lover seal condition packed convenience mini touch described,['convenience'],['product'],0.620469331741333,H
+2034,oil ever popcorn spice jar pop season cooking olive salad cook top search christmas sprinkle,['spice'],"['popcorn', 'cooking']",0.5893261134624481,M
+2037,always case salty awesome live sour hooked tuna cheddar crispy pantry suggest since new tangy,['snacks'],['food texture and taste'],0.6965906620025635,H
+2039,tasty healthy snack fiber healthier lunch dip gram satisfy yum alternative enjoy bill touch crunch,['snack'],"['crunchy snack', 'diet', 'junk food']",0.68181245525678,H
+2041,bit hot buying sauce serve per save cost cheaper red spicy pepper pay ounce subscribe,['spicy'],['hot sauce'],0.6241054534912109,H
+2042,delicious small anyone smaller pricey six except somewhat near tire handy trader definately jam experienced,['food'],['tire'],0.48396751284599304,M
+2043,review see disappointed reviewer call similar read base write label reading another comment saw sure,['disappointment'],['review'],0.6082402467727661,H
+2044,absolutely white fast super return customer service experience process terrible horrible satisfied replace sticky lol,['satisfaction'],['costumer service'],0.4637755751609802,M
+2046,cheese bake could homemade fry slice spoon onion spread style put sandwich contact cardboard oven,['baking'],"['kitchen', 'kitchen', 'cooking', 'cooking']",0.7926580607891083,H
+2047,something put know sure thought anything nothing end else never stick let could everything turn,['uncertainty'],['school'],0.47243019938468933,M
+2050,sauce cheese bread salad flour chili baking stir garlic pancake dip dress pork pizza mill,['food'],"['bakery', 'food', 'cooking']",0.8106158177057902,VH
+2051,calorie protein low amount fat i'd sodium gram weight carbs carb daily msg diabetic lose,['diet'],"['diet and healthy food', 'healthy', 'weight loss']",0.6021208465099335,H
+2052,hot milk diet stomach cold soy shake substitute sensitive nasty start dissolve upset warm n't,['discomfort'],"['food', 'diet']",0.44012051820755005,M
+2056,ever cereal sell unfortunately truly stale pancake vendor appreciate think threw understand fell could never,['stale'],['cereal sell'],0.30781883001327515,M
+2057,bar cereal butter peanut nut almond granola yogurt oat raisin quaker cashew flax walnut bran,['grains'],"['breakfast', 'cereal', 'breakfast diet']",0.45291560888290405,M
+2060,stuff far coconut friend health tell difference cannot please believe benefit pure realize horrible share,['healthy'],['history'],0.27802813053131104,L
+2066,company available awesome sent care licorice search email send affordable business since premium back beyond,['corporate'],['work'],0.5562566518783569,M
+2068,tasty cheese apple lunch crave crunchy healthier satisfy they're dip cheddar crisp school alternative yum,['satisfy'],['snack choice'],0.4897603988647461,M
+2069,favorite oil ever popcorn black far spice pop season cooking olive salad chai top garlic,['spice'],"['favorite oil', 'food']",0.55666384100914,M
+2071,cereal sell chewy hop unfortunately truly pancake vendor surprised raisin packaging fudge muffin understand bran,['food'],['vendor'],0.6296982765197754,H
+2073,year month friend husband gift weight ago lose already none week healthy two thrill start,['celebration'],['gift'],0.7635966539382935,H
+2074,oil popcorn spice olive pop christmas worst garlic cooking italian coconut kernel smoke dress sister,['food'],"['nutrition', 'cooking']",0.7822910845279694,H
+2076,work hour energy husband everyone minute night effect drinking felt sleep shot level boost pizza,['productivity'],['work'],0.7797831892967224,H
+2077,syrup high artificial sweetener chemical sweeten maple blueberry agave corn extract fructose diabetic fake think,[' syrup'],"['cooking', 'drink']",0.6220367252826691,H
+2079,cheese bread sauce chili stir garlic pizza waffle thai pan curry crust jalapeno dip whip,['spicy'],"['food', 'cooking']",0.5532515048980713,M
+2080,could cheese bake homemade slice spoon fry spread onion style finally stand cardboard paper oven,['baking'],"['baking', 'question']",0.7316928654909134,H
+2082,bread flour traditional toast baking mustard member recipe celiac disease yeast needle dough chinese rise,['baking'],"['meal', 'traditional']",0.5207342803478241,M
+2085,old soup carry year stock area tomato discover longer since prepare course broth seafood chili,['soup'],"['soup', 'cooking']",0.8671039938926697,VH
+2086,sweet snack bar milk cereal fruit cooky butter delicious peanut texture nut cookie healthy cracker,['snack'],"['snack', 'food', 'meal or buffet']",0.8488508462905884,VH
+2090,organic quality expensive leaf pleased loose eye personal certify whether preference club among hunt rat,['certification'],['leaf'],0.6375378966331482,H
+2091,rice meal ginger content contain picky sprinkle dinner eater label cooked thai fairly serve snap,['rice'],['meal'],0.5611870288848877,M
+2094,review see disappointed reviewer call say similar write base open reading another read mail sure,['disappointment'],['review'],0.6082402467727661,H
+2095,magnesium oil olive energy diamond bowel blue rda body blood almond tolerance skin allowance source,['health'],"['nutrition', 'science']",0.6823723316192627,H
+2096,green powder vitamin supplement form teaspoon tablespoon nutritional grass smoothie protein outstanding calcium hemp mineral,['superfood'],"['green powder', 'vitamin supplement', 'supplement']",0.5683103203773499,M
+2097,sauce spicy noodle heat kick restaurant lime chili pepper hot wasabi asian bbq ramen jasmine,['spicy'],"['asian food', 'asian cuisine', 'soicy food', 'food']",0.6029919683933258,H
+2098,green powder vitamin amaze aroma grow matcha form teaspoon supplement extract tablespoon mountain protein nutritional,['superfood'],['beverage'],0.5970423221588135,M
+2102,hot keurig salad k-cup cold brewer filter dress curry paste others creamy square grove call,['coffee'],['hot'],0.5016990303993225,M
+2103,ever smooth night exactly become soda sweetness choose cappuccino bed various intense beer fabulous advertised,['coffee'],"['drink', 'drink']",0.6800296306610107,H
+2114,brew bitter bold starbucks decaf instant drinker weak via smooth mocha strong peppermint yet ground,['coffee'],"['starbucks', 'cofee']",0.721443384885788,H
+2115,rice meal ginger content picky contain dinner sprinkle label eater cooked fairly thai snap reorder,[' thai'],"['rice meal', 'thai restaurant']",0.5638260543346405,M
+2116,piece beef jerky everything season break pill training pocket jack two tender crush nose garbage,['snacks'],['training'],0.40904244780540466,M
+2118,free cooky butter peanut gluten cookie gum shipping original reasonable prime vegan sale walmart fudge,['sale'],['shopping'],0.7162864208221436,H
+2122,bit hot buying sauce serve per save cost cheaper red spicy pepper ounce subscribe heat,['spicy'],['buying'],0.5077108144760132,M
+2123,www http href com roast pie dark chocolate pack wolfgang puck g<br ham smokehouse fudge,['gourmet'],['www'],0.5092483758926392,M
+2126,snack far fruit cake rest banana moist bacon bite reason broke apart however inch lick,['food'],"['enjoy food', 'cooking']",0.821471631526947,VH
+2127,enjoy strong blend morning brew bitter smooth packet light machine leaf starbucks aftertaste prefer ice,['coffee'],['brew drink'],0.7612049579620361,H
+2129,could n't money new fine juice either least color guess wrong end waste throw show,['waste'],['juice'],0.5320127010345459,M
+2136,need clean result cheap vet basically still issue seem breath greenies pet high digestive dental,['health'],"['clean', 'pet dentist', 'veterinary']",0.5841174920399984,M
+2137,actually texture cut wheat miss oat biscuit unlike seriously quaker country winner absolute whole swiss,['biscuit'],['oat'],0.7970930337905884,H
+2138,green powder vitamin supplement form teaspoon tablespoon nutritional organic grass protein smoothie hemp outstanding mineral,['superfood'],"['smoothy', 'supllement', 'supplement']",0.6811698277791342,H
+2139,green powder leaf vitamin grow form matcha aroma teaspoon tablespoon supplement mixed along milk protein,['matcha'],"['food seasoning', 'drink']",0.5364092141389847,M
+2140,baby pill jerky pump cost liter gerber sodastream hairball reflux teriyaki nursing whatever med fenugreek,['medication'],"['baby', 'pregnant mum']",0.5148116201162338,M
+2143,year two every size old last month start long week keep several baby three friend,['growth'],['baby'],0.5571491122245789,M
+2144,market tell turn difference cook pasta brown stomach soda hold mean suppose sour coat nicely,['food'],['health'],0.5130406618118286,M
+2148,strong prefer bold orange ginger people medium weak shake cherry stronger subtle bitterness intense think,['spicy'],['fitness'],0.4453895092010498,M
+2149,green powder vitamin supplement form teaspoon tablespoon protein nutritional outstanding smoothie grass calcium mineral hemp,['healthy'],['supplement'],0.5253446102142334,M
+2150,bottle glass lemon delivery mint sale peach broken usually forward offer plastic half prov mio,['convenience'],['drink sale'],0.46190187335014343,M
+2154,company available awesome sent care licorice search email send affordable business since premium back coupon,['premium'],"['delivery feedback', 'company']",0.6881395876407623,H
+2159,snack far fruit cake bite rest reason banana moist bacon broke preservative pear drizzle instead,['food'],['food'],1.0,VH
+2160,put around top popcorn real place pop close bowl batch microwave cool liqu bottom another,[' microwave'],['popcorn'],0.6151317358016968,H
+2167,protein coconut gram fiber carbs fat msg bpa yeast g<br pineapple glutamate monosodium cholesterol hemp,['healthy foods'],['diet'],0.644323468208313,H
+2171,say without way fine though think still yes ton felt may warn doubt people meant,['uncertainty'],['opinion'],0.7175824642181396,H
+2173,oil popcorn spice pop olive christmas worst garlic italian kernel regularly cooking smoke sister popper,['popcorn'],['food'],0.47502952814102173,M
+2175,package fresh item receive rice arrive disappointed gift white fast packaging noodle awesome money return,['convenience'],['packaging'],0.6158865094184875,H
+2176,ingredient natural list special contains raw berry china usa book herb label gross prov report,['natural'],['ingredient'],0.5735737085342407,M
+2178,pack com roast www http href pod variety cherry pie grey earl double senseo gourmet,['gourmet'],['pie'],0.670473039150238,H
+2179,snack bar sweet cooky cereal delicious butter peanut texture tasty healthy nut fruit mix bread,['snacks'],"['snack', 'food', 'snack']",0.8939381639162699,VH
+2185,hair clear heard wash scent thick shampoo conditioner oily manufacturer shiny scalp apply head shower,['grooming'],['hair'],0.725752592086792,H
+2187,cereal sell unfortunately truly stale vendor understand appreciate allow threw fell fail basis pronounce macadamia,['stale'],['commerce'],0.4368618130683899,M
+2188,sweet bar perfect milk fruit texture yummy granola cinnamon crunchy blueberry strawberry yogurt flake tart,['dessert'],"['yogurt', 'dessert', 'food and sweet']",0.8072293599446615,VH
+2189,sweet right candy enjoy amount quick refresh cold sweetness mango plain summer think beverage ant,['sweetness'],['beverage'],0.636320173740387,H
+2191,caramel top sugar cake wine california vanilla drizzle natural mmmm kernel flip monster mmmmm pan,['dessert'],"['desert', 'sweet']",0.49538537859916687,M
+2193,need keep hand around teeth clean longer basically breath greenies issue digestive tummy seem dental,[' oral hygiene'],"['dental care', 'teeth health']",0.6878984272480011,H
+2196,oil ever popcorn spice jar pop season cooking olive salad top christmas cook sprinkle garlic,['spice'],['cooking'],0.6320914030075073,H
+2200,quite recipe bread wish melt stock baking stir homemade bake certainly awful stuck moist gluten-free,[' baking'],['bake'],0.8365317583084106,VH
+2204,sweet bar crunchy granola crunch yogurt raisin combination flake snack cereal almond cranberry nutritious tooth,['crunchy'],"['cereal', 'snack']",0.6352340579032898,H
+2206,enjoy strong blend morning brew bitter smooth packet light machine starbucks aftertaste prefer cold leaf,['coffee'],['coffee'],1.0,VH
+2209,snack healthy tasty excellent fiber lunch healthier satisfy enjoy something dip crave yum without terrific,['healthy snack'],"['healthy', 'healthy food']",0.8980381190776825,VH
+2217,brew bitter bold yet starbucks decaf instant drinker weak smooth brewing via mocha peppermint magic,['coffee'],['starbucks'],0.8427362442016602,VH
+2218,package fresh item receive arrive rice soup disappointed gift white fast anyone company noodle awesome,['delivery'],['review'],0.8031479120254517,VH
+2220,absolutely fast white rice service noodle terrible customer grain process satisfied super delivery disappointed experience,['fast food'],['customer experience'],0.3888564109802246,M
+2222,size old month easy small baby start quickly jerky daughter year son thanks perfect larger,['growth'],['age and growth'],0.8658067584037781,VH
+2225,favorite blend black bitter k-cups keurig wife drinking k-cup aftertaste decaf choice caffeine enough perfect,['coffee'],"['caffeine', 'coffee review', 'coffee', 'coffee']",0.9231023043394089,VH
+2226,natural list contains raw berry ingredient book usa herb gross report root aloe passion question,['nature'],['nutrition'],0.5372031927108765,M
+2227,can't say almond blue wait cocoa magnesium ounce beat diamond blood reminds nutrient rda bowel,['healthy'],['cocoa magnesium'],0.41101720929145813,M
+2229,cooky butter peanut cookie sale we've newman's moist spread reasonable biscuit crumb walmart fabulous sandwich,['food'],"['bakery food', 'shop', 'butter']",0.6468832691510519,H
+2231,far butter peanut we've supermarket reasonable consistency recently newman's walmart blow hopefully they'd apricot toddler,['supermarket'],['grocery shopping'],0.8357545733451843,VH
+2232,n't milk diet stomach soy substitute shake sensitive nasty upset allergic dissolve pain gallon zero,['healthy'],"['milk', 'diet', 'milk substitute']",0.43199101090431213,M
+2238,popcorn movie pop popper walnut top kettle bottle batter pour northern microwave agave theater put,['popcorn'],['movie'],0.5353364944458008,M
+2239,mind starbucks total especially instant roll often via decent flower set classic grape illy mocha,['coffee'],['coffee shop'],0.8775455951690674,VH
+2240,star corn reason potato often four saw five veggie rating yellow kettle rate salty general,['vegetables'],['kitchen'],0.6475945711135864,H
+2243,cost bpa general consumer drive refill effective woman liter per sadly sodastream tomato synthetic rate,['synthetic'],"['grocery shopping', 'agriculture']",0.43009763956069946,M
+2246,organic natural real expensive syrup high artificial sweetener pleased flour wheat corn leaf chemical maple,['natural'],['syrup'],0.5454602241516113,M
+2247,last receive open couple case they're that's half week jar usually seed pouch return part,['jar'],['seed pouch order'],0.5125972628593445,M
+2248,rice season tuna pea steak fudge mustard wasabi usa bubble oreo trader sardine gooey fig,['food'],['food'],1.0,VH
+2249,cat wellness feed pet science ingredient meat kitten vet kitty by-product purina kibble filler cat's,['cat food'],"['cat care', 'pet', 'cat', 'pet']",0.6510996669530869,H
+2255,purchase item happy receive arrive company around ship see place date throw exactly call sent,['purchase'],['shipping'],0.7756906747817993,H
+2258,flour egg grain large boy mill disease poor celiac recipe kibble choke allergy formula risk,['food'],['ingredient'],0.630787193775177,H
+2260,right calorie bean low amount fat candy high light content sodium weight carbs lower mango,['diet'],"['diet', 'calorie', 'meal or food']",0.7804988225301107,H
+2262,hair clear wash scent heard shampoo thick conditioner oily manufacturer shiny scalp apply seem shower,['hair care'],"['hair treatment', 'hair shampoo', 'hair']",0.8880320390065511,VH
+2264,excellent white yummy oatmeal excite egg gluten-free mill frost bob's lovely generally marshmallow bud biscotti,['food'],['diet'],0.7694176435470581,H
+2268,ingredient organic natural real corn expensive syrup list label wheat artificial pet ginger grain contain,['healthy'],"['ingredient', 'corn']",0.38620030879974365,M
+2269,bottle shipping plastic offer iced delivery glass lemon broken seller mint peach forward handle cent,['centralization'],['bottle'],0.6899389028549194,H
+2270,size old month easy small baby start quickly jerky year daughter son thanks large perfect,['growth'],"['baby', 'new born']",0.6196495294570923,H
+2272,hot milk diet stomach cold soy substitute shake sensitive nasty warm dissolve upset start pain,['digestion'],"['milk', 'diet']",0.7412177622318268,H
+2277,healthy tasty snack fiber healthier satisfy lunch alternative dip touch yum usual bill hungry wholesome,[' wholesome'],"['health diet', 'healthy lunch', 'lunch']",0.4610508779684703,M
+2279,rice season tomato tuna steak pea fudge hol mustard wasabi bubble usa cookie oreo creme,['food'],['cooking'],0.7952097654342651,H
+2280,regular bit serve per save hot red spicy pepper ounce subscribe heat option kick chili,['spicy'],"['pepper', 'chilli']",0.6230150461196899,H
+2282,nice hard kind back never please mountain overpower bring surprise describe puff lighter compare pa,['surprise'],['nice'],0.5538409352302551,M
+2284,think know since review smell bad people another i'll may read dec reviewer might batch,['review'],"['think', 'analyze']",0.8801665008068085,VH
+2287,coconut water protein bottle calorie soda syrup fat vitamin gram splenda sugar juice carbs msg,['healthy drink'],['health'],0.7240426540374756,H
+2289,enjoy right bean candy amount quick cold refresh sweetness mango summer warm quantity beverage hint,['summer'],"['candy', 'right']",0.3900386393070221,M
+2297,lot big include line overall finish addition con bottom think comparable gotten pro frequently overwhelm,['big'],['lot'],0.8240377902984619,VH
+2299,sure sauce serve meal bowl soy dish content consistency thick dinner simple cooked sprinkle restaurant,['sauce'],"['dinner', 'food']",0.5308907926082611,M
+2300,snack chip healthy tasty family cheese they're apple alternative potato salty lunch crave satisfy enjoy,['cravings'],['snack'],0.5494669675827026,M
+2301,peanut shampoo conditioner scalp clam bear zuke's fda wal-mart trap fudge brittle chowder transaction auto,['cosmetics'],['shampoo'],0.8120068311691284,VH
+2303,old soup carry stock area discover longer course year tomato since prepare broth seafood prepared,['soup'],['leftover soup'],0.8456248641014099,VH
+2304,oil energy gum bone hair toy olive skin magnesium diamond body blue boost supplement truffle,['healthy living'],"['body', 'skin']",0.4658755362033844,M
+2305,stuff coconut case health tell weight difference please benefit immediately lose realize cause process formula,['healthy weight loss'],"['health', 'coconut']",0.5276424139738083,M
+2313,end hair felt clear heard opening thick wash scent job shampoo major conditioner manufacturer trust,['haircare'],['beauty salon'],0.7284358143806458,H
+2314,sell deal market teeth flour surprised bulk stale pancake pretzel pizza mill tin book muffin,['food'],['store food'],0.8901516795158386,VH
+2316,bottle shipping subscribe delivery grocery prime charge wine cost gallon kit hazelnut mio club cola,['convenience'],"['grocery', 'supermarket', 'shop']",0.42973393201828003,M
+2317,snack healthy tasty excellent lunch satisfy healthier crave yum terrific dip late hungry bill junk,['satisfy'],"['snack', 'healthy snack', 'snack']",0.6651055812835693,H
+2318,back wonderful new home change drinking amaze husband next issue thank left highly life anyone,['home'],['wonderful'],0.5932112336158752,M
+2320,hot milk cold stomach diet soy substitute shake warm sensitive nasty dissolve upset start pain,['digestion'],"['belly hurt', 'substitute milk', 'beverage drink']",0.5570388038953146,M
+2321,think right calorie bean low fat candy amount high content sodium small lower carbs prov,['healthy'],"['fitness', 'nutritional']",0.6765551865100861,H
+2322,enjoy right bean candy amount quick cold hint sweetness refresh warm summer mango quantity beverage,['summer'],"['enjoy', 'juice']",0.4945392608642578,M
+2323,calorie low fat protein coconut serve juice diet fiber per sodium weight gram vitamin carbs,['healthy eating'],"['food', 'diet', 'diet']",0.6478912830352783,H
+2324,help without morning oatmeal son skin gas mom result truffle daily warm winter fix strength,['comfort'],['kitchen'],0.3864825963973999,M
+2328,sweet bar milk cereal texture yummy cinnamon granola kind strawberry crunchy soft blueberry crunch whole,['cereal'],['food item'],0.49187973141670227,M
+2330,calorie protein fat coconut low fiber sodium gram vitamin carbs splenda msg bpa ant nutritional,[' nutrition'],['vitamines'],0.742912769317627,H
+2333,milk n't diet start stomach soy substitute shake something sensitive without nasty upset dissolve usually,['digestion'],['diet'],0.7980839014053345,H
+2334,vanilla french aroma k-cup medium hint matcha creamer bitterness burnt caribou wolfgang grove match puck,['coffee'],['vanilla'],0.6579365730285645,H
+2335,strong prefer bold orange ginger medium shake weak cherry stronger subtle people intense bitterness slight,['spicy'],['emotion'],0.6199182271957397,H
+2336,size old month easy baby small start quickly jerky daughter son thanks year week perfect,['growth'],['baby'],0.5571491122245789,M
+2338,bottle glass lemon delivery mint sale peach broken forward usually plastic offer prov half mio,['bottle'],['drink'],0.8821642994880676,VH
+2341,piece everything beef season break pill pepper pocket jack crush medication ear pinch medicine two,['pain'],['beef'],0.32983070611953735,M
+2343,thought end else stick cover boil air china burn min power die storage trick bully,['manipulation'],['boil air china'],0.392574280500412,M
+2344,free cooky butter peanut gluten cookie sale we've reasonable walmart newman's allergy jam blow raisin,['sale'],"['cookie baking', 'cooky']",0.484531432390213,M
+2347,absolutely white fast super service customer return terrible satisfied horrible replace sticky process disgust lol,['horrible'],"['customer service', 'white']",0.34388144314289093,M
+2349,oil popcorn spice olive pop christmas worst garlic italian cooking kernel smoke sister coconut dress,['food'],['food'],1.0,VH
+2352,excellent white yummy oatmeal egg excite gluten-free mill frost bob's lovely marshmallow call biscotti generally,['food'],"['food', 'food review']",0.8977243900299072,VH
+2356,dry chicken beef pasta cook brown stomach vegetable picky pill fish liver salmon training dont,['food'],"['cook training', 'food', 'cook']",0.7894395987192789,H
+2357,sweet right enjoy candy amount quick cold refresh sweetness summer plain mango beverage think ant,['summer'],"['sweet', 'sugar']",0.4365290105342865,M

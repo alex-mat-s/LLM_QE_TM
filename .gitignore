@@ -6,6 +6,10 @@ __pycache__/
 # Jupyter Notebook
 .ipynb_checkpoints
 
-data/
+data/interim
+data/processed_TOLOKA_scores
+data/TOLOKA_Markup
+data/Models_info
 
-!data/datasets
+# !data/datasets
+# !data/results
