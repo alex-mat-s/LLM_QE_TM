@@ -8,7 +8,7 @@ Maria Khodorchenko
 
 https://scholar.google.ru/citations?user=9zui28kAAAAJ&hl=en 
 
-## Dataset
+## Initial Dataset
 https://www.kaggle.com/datasets/marykh/marked-up-topic-quality
 
 ## Citation
