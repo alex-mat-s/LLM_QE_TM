@@ -17,7 +17,7 @@ class TmEval:
             device: str = 'cpu',
             system_prompt: str = '',
             task: str = '',
-            file:str = '', # The full path
+            file: str = '', # The full path
             print_final_prompt: bool = False,
             num_iter: int = None  # The number of samples (if the user doesn't want to process the entire dataset)
         ):
