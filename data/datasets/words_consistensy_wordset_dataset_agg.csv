@@ -1,4 +1,4 @@
-INPUT:wordset,INPUT:dataset_name,OUTPUT:quality,homogeneity,assessment
+INPUT:wordset,INPUT:dataset_name,OUTPUT:quality,homogenity,assessment
 able amaze fill glad stop daily fantastic move prime plenty empty subtle job strongly litter,amazon_food,"['rather_bad', 'bad', 'rather_bad']",0.7,-1
 able amaze fill stop glad daily fantastic move plenty prime empty job subtle strongly litter,amazon_food,"['bad', 'rather_good', 'rather_bad', 'rather_bad', 'bad', 'rather_bad', 'bad', 'good', 'bad', 'rather_bad', 'rather_bad', 'rather_bad']",0.5,-1
 able amaze fill stop glad daily fantastic move plenty prime empty subtle job strongly litter,amazon_food,"['bad', 'rather_bad', 'rather_bad']",0.7,-1
