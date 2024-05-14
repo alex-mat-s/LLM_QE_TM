@@ -8,7 +8,6 @@ from nltk.corpus import wordnet
 import gensim
 from pymystem3 import Mystem
 
-
 class TextPreprocessor:
     def __init__(self, lang):
         """Initialize TextPreprocessor

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5a3fb5e5-8eb3-487d-82a5-0b3c0671c3bb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/data/datasets/words_consistensy_model_agg.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/results/text_coherence_mistral_7B_LoRA_5classification_amazon.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/results/text_coherence_mistral_7B_LoRA_5classification_amazon.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/results/text_coherence_mistral_7B_LoRA_5classification_newsgroup.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/results/text_coherence_mistral_7B_LoRA_5classification_newsgroup.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/results/text_coherence_mistral_7b_4_bit_4classes_APM4_amazon.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/results/text_coherence_mistral_7b_4_bit_4classes_APM4_amazon.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/results/text_coherence_mistral_7b_4_bit_4classes_APM4_newsgroup.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/results/text_coherence_mistral_7b_4_bit_4classes_APM4_newsgroup.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/Inference_example.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/Inference_example.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/results_analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/results_analysis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/few_shot_pipeline.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2gPUAV2jdzj2GnYh2WkCInDRndv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/alexandra/ITMO/RW'23/LLM_QE_TM"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-babbdf50b680-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.15989.155" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a3fb5e5-8eb3-487d-82a5-0b3c0671c3bb" name="Changes" comment="" />
+      <created>1715598562850</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715598562850</updated>
+    </task>
+    <servers />
+  </component>
+</project>
